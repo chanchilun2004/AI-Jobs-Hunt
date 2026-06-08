@@ -1,0 +1,662 @@
+{
+  "updated": "2026-06-04T06:00:00+00:00",
+  "source": "https://jump.mingpao.com/job/search?JobAreaID[]=10-0",
+  "count": 50,
+  "new_count": 2,
+  "jobs": [
+    {
+      "t": "中文 / 英文科教師（合約）",
+      "s": "保良局田家炳小學",
+      "sub": "中文、英文",
+      "d": "04 Jun 26",
+      "tags": [
+        "contract",
+        "new"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047091",
+      "cat": "main",
+      "id": "HS26047091",
+      "first_seen": null
+    },
+    {
+      "t": "Native-speaking English Teacher",
+      "s": "鴨脷洲街坊學校",
+      "sub": "英文（外籍英語教師）",
+      "d": "04 Jun 26",
+      "tags": [
+        "net",
+        "new"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047681",
+      "cat": "main",
+      "id": "HS26047681",
+      "first_seen": null
+    },
+    {
+      "t": "英文常額教師（能任教體育或資訊科技優先）",
+      "s": "香港潮陽小學",
+      "sub": "英文 + 體育 / 資訊科技",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030511",
+      "cat": "main",
+      "id": "HS26030511",
+      "first_seen": null
+    },
+    {
+      "t": "Regular / Contract Teacher（科學／英／中／普／音樂／視藝）",
+      "s": "瑪利曼小學",
+      "sub": "多科：科學、英、中、普通話、音樂、視藝",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030571",
+      "cat": "main",
+      "id": "HS26030571",
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約 助理小學學位教師 APSM",
+      "s": "香港嘉諾撒學校",
+      "sub": "科目未指定（APSM）",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030491",
+      "cat": "main",
+      "id": "HS26030491",
+      "first_seen": null
+    },
+    {
+      "t": "中文、英文及數學科老師",
+      "s": "九龍塘學校（小學部）",
+      "sub": "中文、英文、數學",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030611",
+      "cat": "main",
+      "id": "HS26030611",
+      "first_seen": null
+    },
+    {
+      "t": "英文科 / 音樂科老師",
+      "s": "中華基督教會基灣小學",
+      "sub": "英文、音樂",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26031051",
+      "cat": "main",
+      "id": "HS26031051",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM — 中文（粵教中）兼教普通話 / 英文 / 體育（常額 / 合約）",
+      "s": "浸信會孔憲紹天虹小學",
+      "sub": "中文（粵教中）+ 普通話 / 英文 / 體育",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030821",
+      "cat": "main",
+      "id": "HS26030821",
+      "first_seen": null
+    },
+    {
+      "t": "小學學位教師 PSM（2026/27）",
+      "s": "三水同鄉會禤景榮學校",
+      "sub": "科目未指定（PSM）",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030691",
+      "cat": "main",
+      "id": "HS26030691",
+      "first_seen": null
+    },
+    {
+      "t": "常額教師 APSM（2026/27）",
+      "s": "三水同鄉會禤景榮學校",
+      "sub": "科目未指定（APSM）",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030692",
+      "cat": "main",
+      "id": "HS26030692",
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約教師（2026/27）",
+      "s": "宣道會台山陳元喜小學",
+      "sub": "科目未指定",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26031181",
+      "cat": "main",
+      "id": "HS26031181",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 / 學位教師 APSM / GM（合約 / 常額）",
+      "s": "三水同鄉會劉本章學校",
+      "sub": "科目未指定（APSM / GM）",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029501",
+      "cat": "main",
+      "id": "HS26029501",
+      "first_seen": null
+    },
+    {
+      "t": "中文科老師（2026-27）",
+      "s": "聖若瑟小學",
+      "sub": "中文",
+      "d": "23 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030041",
+      "cat": "main",
+      "id": "HS26030041",
+      "first_seen": null
+    },
+    {
+      "t": "英文科 助理小學學位教師 APSM（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "英文",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030101",
+      "cat": "main",
+      "id": "HS26030101",
+      "first_seen": null
+    },
+    {
+      "t": "中文（普通話教授）助理小學學位教師 APSM（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "中文（普教中）",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030102",
+      "cat": "main",
+      "id": "HS26030102",
+      "first_seen": null
+    },
+    {
+      "t": "學校圖書館主任（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "圖書館 / 閱讀推廣",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm",
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030103",
+      "cat": "main",
+      "id": "HS26030103",
+      "first_seen": null
+    },
+    {
+      "t": "常額教師 — 英文科兼教宗教 / 人文 / 科學",
+      "s": "九龍灣聖若翰天主教小學",
+      "sub": "英文 + 宗教 / 人文 / 科學",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029221",
+      "cat": "main",
+      "id": "HS26029221",
+      "first_seen": null
+    },
+    {
+      "t": "合約教師 — 中（普教中）/ 英 / 數 兼教人文 / 科學 / 電腦 / 宗教 / 音樂",
+      "s": "九龍灣聖若翰天主教小學",
+      "sub": "中（普教中）/ 英 / 數 + 多副科",
+      "d": "22 Apr 26",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029222",
+      "cat": "main",
+      "id": "HS26029222",
+      "first_seen": null
+    },
+    {
+      "t": "中學學位教師 GM / 助理小學學位教師 APSM（全 / 半 / 兼職）（常額 / 合約）",
+      "s": "香港基督教服務處",
+      "sub": "中 / 小學（APSM / GM）",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029271",
+      "cat": "main",
+      "id": "HS26029271",
+      "first_seen": null
+    },
+    {
+      "t": "常額小學學位教師 PSM（2026/27）",
+      "s": "獅子會何德心小學",
+      "sub": "科目未指定（PSM）",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029411",
+      "cat": "main",
+      "id": "HS26029411",
+      "first_seen": null
+    },
+    {
+      "t": "英文科 常額助理小學學位教師 APSM（2026/27）",
+      "s": "獅子會何德心小學",
+      "sub": "英文",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029421",
+      "cat": "main",
+      "id": "HS26029421",
+      "first_seen": null
+    },
+    {
+      "t": "中文 / 英文 / 數學及圖書館教師 — 常額 / 合約 APSM",
+      "s": "光明英來學校",
+      "sub": "中 / 英 / 數 / 圖書館",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm",
+        "contract",
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029511",
+      "cat": "main",
+      "id": "HS26029511",
+      "first_seen": null
+    },
+    {
+      "t": "小學學位教師 PSMCD（課程發展）",
+      "s": "嗇色園（主辦小學）",
+      "sub": "科目未指定（課程發展）",
+      "d": "22 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029541",
+      "cat": "main",
+      "id": "HS26029541",
+      "first_seen": null
+    },
+    {
+      "t": "合約 / 常額英文科教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "英文",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028811",
+      "cat": "main",
+      "id": "HS26028811",
+      "first_seen": null
+    },
+    {
+      "t": "合約 / 常額體育科教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028812",
+      "cat": "main",
+      "id": "HS26028812",
+      "first_seen": null
+    },
+    {
+      "t": "常額 STEAM 教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "STEAM",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028813",
+      "cat": "main",
+      "id": "HS26028813",
+      "first_seen": null
+    },
+    {
+      "t": "各科教師（2026/27）",
+      "s": "聖類斯中學（小學部）",
+      "sub": "各科",
+      "d": "21 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028841",
+      "cat": "main",
+      "id": "HS26028841",
+      "first_seen": null
+    },
+    {
+      "t": "體育科常額教師",
+      "s": "佛教黃焯菴小學",
+      "sub": "體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028851",
+      "cat": "main",
+      "id": "HS26028851",
+      "first_seen": null
+    },
+    {
+      "t": "中、數、音、體常額教師（2 名）",
+      "s": "中華基督教會協和小學（長沙灣）",
+      "sub": "中文 / 數學 / 音樂 / 體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028881",
+      "cat": "main",
+      "id": "HS26028881",
+      "first_seen": null
+    },
+    {
+      "t": "小學部教師 — 中 / 英 / 數 / 體（9 月到任）",
+      "s": "漢華中學（小學部）",
+      "sub": "中文 / 英文 / 數學 / 體育",
+      "d": "21 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029002",
+      "cat": "main",
+      "id": "HS26029002",
+      "first_seen": null
+    },
+    {
+      "t": "各科常額 / 合約教師（2026-27）",
+      "s": "基督教神召會梁省德小學",
+      "sub": "各科",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029101",
+      "cat": "main",
+      "id": "HS26029101",
+      "first_seen": null
+    },
+    {
+      "t": "NET Teacher（Funding Post 2026-27）",
+      "s": "基督教神召會梁省德小學",
+      "sub": "英文（外籍英語教師）",
+      "d": "21 Apr 26",
+      "tags": [
+        "net"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029102",
+      "cat": "main",
+      "id": "HS26029102",
+      "first_seen": null
+    },
+    {
+      "t": "小學學位教師（小學課程統籌及發展主任）",
+      "s": "大埔舊墟公立學校",
+      "sub": "課程統籌 / 發展（PSM）",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029171",
+      "cat": "main",
+      "id": "HS26029171",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM — 英文（常額，達英文基準）",
+      "s": "大埔舊墟公立學校",
+      "sub": "英文",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029172",
+      "cat": "main",
+      "id": "HS26029172",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM — 中文（常額，達普通話基準）",
+      "s": "大埔舊墟公立學校",
+      "sub": "中文（普通話）",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029173",
+      "cat": "main",
+      "id": "HS26029173",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM",
+      "s": "聖愛德華天主教小學",
+      "sub": "科目未指定（APSM）",
+      "d": "20 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26026991",
+      "cat": "main",
+      "id": "HS26026991",
+      "first_seen": null
+    },
+    {
+      "t": "英文科常額 / 合約教師",
+      "s": "十八鄉鄉事委員會公益社小學",
+      "sub": "英文",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028501",
+      "cat": "main",
+      "id": "HS26028501",
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約教師（2026/27）",
+      "s": "嘉諾撒培德學校",
+      "sub": "科目未指定",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028511",
+      "cat": "main",
+      "id": "HS26028511",
+      "first_seen": null
+    },
+    {
+      "t": "各科老師（常額 / 合約）（2026-27）",
+      "s": "樂善堂劉德學校",
+      "sub": "各科",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028641",
+      "cat": "main",
+      "id": "HS26028641",
+      "first_seen": null
+    },
+    {
+      "t": "合約助理小學學位教師 APSM（2026-27）",
+      "s": "佛教榮茵學校",
+      "sub": "科目未指定（APSM）",
+      "d": "18 Apr 26",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027941",
+      "cat": "main",
+      "id": "HS26027941",
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約 中 / 英 / 數教師（能兼教音樂、體育者優先）",
+      "s": "上水惠州公立學校",
+      "sub": "中 / 英 / 數 + 音樂 / 體育",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028371",
+      "cat": "main",
+      "id": "HS26028371",
+      "first_seen": null
+    },
+    {
+      "t": "中 / 英 / 數科教師（常額 / 合約）",
+      "s": "保良局田家炳小學（另一招聘）",
+      "sub": "中 / 英 / 數",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028381",
+      "cat": "main",
+      "id": "HS26028381",
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約教師（中、英、數）（2026-27）",
+      "s": "元朗公立中學校友會小學",
+      "sub": "中 / 英 / 數",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028391",
+      "cat": "main",
+      "id": "HS26028391",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM（各科）（2026-27）",
+      "s": "嶺南大學香港同學會小學",
+      "sub": "各科（APSM）",
+      "d": "18 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028521",
+      "cat": "main",
+      "id": "HS26028521",
+      "first_seen": null
+    },
+    {
+      "t": "視藝及中文科教師（常額 / 合約）（2026-27）",
+      "s": "沙田公立學校",
+      "sub": "視藝 / 中文",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028531",
+      "cat": "main",
+      "id": "HS26028531",
+      "first_seen": null
+    },
+    {
+      "t": "Teacher Librarian（一條龍中小學，設小學部）",
+      "s": "香港浸會大學附屬學校王錦輝中小學",
+      "sub": "圖書館 / 閱讀",
+      "d": "18 Apr 26",
+      "tags": [
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027891",
+      "cat": "main",
+      "id": "HS26027891",
+      "first_seen": null
+    },
+    {
+      "t": "Head of Student Support PSM（一條龍中小學，設小學部）",
+      "s": "香港浸會大學附屬學校王錦輝中小學",
+      "sub": "學生支援（PSM 職級）",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027881",
+      "cat": "main",
+      "id": "HS26027881",
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 / 學位教師（合約）",
+      "s": "保良局陳麗玲（百周年）學校 · 中度特殊學校",
+      "sub": "可選：IT／科技與生活／體育／音樂／設計與應用科技／視藝／園藝治療",
+      "d": "27 May 26",
+      "tags": [
+        "contract",
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043481",
+      "cat": "sp",
+      "id": "HS26043481",
+      "first_seen": null
+    },
+    {
+      "t": "小學 / 中學學位教師",
+      "s": "心光盲人院暨學校（心光恩望學校）· 視障特殊",
+      "sub": "科目未指定",
+      "d": "24 Apr 26",
+      "tags": [
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030791",
+      "cat": "sp",
+      "id": "HS26030791",
+      "first_seen": null
+    },
+    {
+      "t": "小學英文科日薪代課教師 APSM",
+      "s": "路德會啓聾學校 · 聽障特殊",
+      "sub": "英文（代課）",
+      "d": "22 Apr 26",
+      "tags": [
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029261",
+      "cat": "sp",
+      "id": "HS26029261",
+      "first_seen": null
+    }
+  ]
+}
