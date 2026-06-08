@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>小學教席 ✿ 文青精選</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#fffdf6; --paper2:#fbf4e6; --ink:#5a5246; --ink-soft:#9b9081;
+    --coral:#f4a09a; --coral-d:#e07a72; --butter:#f7d98c; --butter-d:#e6b94f;
+    --mint:#a8d9c2; --mint-d:#5fb892; --sky:#a9cfe8; --sky-d:#6aa7d6;
+    --lilac:#cdb9ec; --lilac-d:#a285d6; --line:#efe4cf; --card:#ffffff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--paper);background-image:radial-gradient(var(--line) 1.1px, transparent 1.1px);
+    background-size:22px 22px;color:var(--ink);font-family:"Noto Sans TC",sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:940px;margin:0 auto;padding:40px 22px 90px;}
+  header{text-align:center;margin-bottom:30px;}
+  .tape{display:inline-block;background:var(--butter);color:#7a5d1e;font-family:"Caveat",cursive;font-size:22px;
+    padding:4px 22px;border-radius:4px;transform:rotate(-2deg);box-shadow:0 3px 0 rgba(0,0,0,.04);margin-bottom:14px;}
+  h1{font-family:"Noto Serif TC",serif;font-weight:900;font-size:clamp(30px,6vw,46px);line-height:1.18;}
+  h1 .heart{color:var(--coral-d);}
+  .sub{color:var(--ink-soft);font-size:14.5px;max-width:60ch;margin:12px auto 0;}
+  .meta{margin-top:14px;font-family:"Caveat",cursive;font-size:18px;color:var(--mint-d);}
+  .meta a{color:var(--sky-d);text-decoration:none;border-bottom:1.5px dotted var(--sky-d);}
+  .progress{margin:24px auto 4px;max-width:520px;background:var(--card);border:2px solid var(--line);
+    border-radius:22px;padding:16px 22px;box-shadow:0 6px 0 var(--paper2);}
+  .progress .t{font-size:13.5px;color:var(--ink-soft);display:flex;justify-content:space-between;align-items:baseline;}
+  .progress .t b{color:var(--coral-d);font-family:"Fraunces",serif;font-size:20px;}
+  .bar{height:14px;background:var(--paper2);border-radius:10px;overflow:hidden;margin-top:9px;border:1px solid var(--line);}
+  .fill{height:100%;width:100%;border-radius:10px;background:linear-gradient(90deg,var(--coral),var(--butter) 40%,var(--mint) 72%,var(--sky));}
+  .dash{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:14px;margin:26px 0 30px;}
+  .stat{border-radius:22px;padding:18px 16px;text-align:center;border:2px solid rgba(0,0,0,.04);box-shadow:0 6px 0 rgba(0,0,0,.05);transform:rotate(-1deg);}
+  .stat:nth-child(2){transform:rotate(1.2deg);}.stat:nth-child(3){transform:rotate(-1.5deg);}
+  .stat:nth-child(4){transform:rotate(1deg);}.stat:nth-child(5){transform:rotate(-.6deg);}
+  .stat .n{font-family:"Fraunces",serif;font-size:32px;font-weight:600;line-height:1;}
+  .stat .l{font-size:12px;margin-top:7px;font-weight:500;}
+  .s-coral{background:#fde9e7;}.s-coral .n{color:var(--coral-d);}.s-coral .l{color:#c4736c;}
+  .s-mint{background:#e4f4ec;}.s-mint .n{color:var(--mint-d);}.s-mint .l{color:#4f9c7c;}
+  .s-butter{background:#fdf2d6;}.s-butter .n{color:var(--butter-d);}.s-butter .l{color:#b9912f;}
+  .s-sky{background:#e3f0fa;}.s-sky .n{color:var(--sky-d);}.s-sky .l{color:#5b91bf;}
+  .s-lilac{background:#efe7fb;}.s-lilac .n{color:var(--lilac-d);}.s-lilac .l{color:#8e6fc4;}
+  .hl{background:var(--card);border:2px solid var(--line);border-radius:24px;padding:22px 26px;margin-bottom:30px;box-shadow:0 7px 0 var(--paper2);}
+  .hl h2{font-family:"Noto Serif TC",serif;font-size:20px;margin-bottom:14px;}
+  .hl ul{list-style:none;}
+  .hl li{padding:8px 0 8px 26px;position:relative;font-size:14px;border-bottom:1.5px dashed var(--line);}
+  .hl li:last-child{border-bottom:none;}
+  .hl li::before{content:"✿";position:absolute;left:0;top:8px;color:var(--coral);font-size:13px;}
+  .hl b{color:var(--mint-d);font-weight:700;}
+
+  /* ---------- filters ---------- */
+  .filters{position:sticky;top:10px;z-index:20;background:var(--card);border:2px solid var(--line);
+    border-radius:24px;padding:18px 20px;margin-bottom:32px;box-shadow:0 7px 0 var(--paper2);}
+  .search{width:100%;border:2px solid var(--line);background:var(--paper);border-radius:16px;
+    padding:11px 16px;font-family:"Noto Sans TC",sans-serif;font-size:14px;color:var(--ink);outline:none;transition:border-color .15s;}
+  .search:focus{border-color:var(--mint);}
+  .search::placeholder{color:var(--ink-soft);}
+  .frow{display:flex;align-items:flex-start;gap:10px;margin-top:13px;flex-wrap:wrap;}
+  .flabel{font-family:"Caveat",cursive;font-size:18px;color:var(--ink-soft);min-width:42px;padding-top:3px;}
+  .chips{display:flex;gap:7px;flex-wrap:wrap;flex:1;}
+  .chip{cursor:pointer;user-select:none;font-size:12.5px;font-weight:600;padding:5px 13px;border-radius:20px;
+    background:var(--paper2);color:var(--ink-soft);border:2px solid transparent;transition:all .13s;}
+  .chip:hover{transform:translateY(-1px);}
+  .chip.on{background:var(--mint);color:#27604a;border-color:#8ccfb1;}
+  .chip.on.tg-perm{background:#bfe8d2;color:#2f7a59;border-color:#8ccfb1;}
+  .chip.on.tg-contract{background:#fbcdc8;color:#b8554d;border-color:#f0a59e;}
+  .chip.on.tg-net{background:#fbe6ad;color:#9a7517;border-color:#ecca74;}
+  .chip.on.tg-new{background:var(--coral);color:#fff;border-color:#e88;}
+  .chip.on.tg-lib{background:#bcdcf3;color:#3f7aa8;border-color:#8fc0e3;}
+  .chip.on.tg-sp{background:#dac8f4;color:#6f50ad;border-color:#bfa3e6;}
+  .fbar{display:flex;justify-content:space-between;align-items:center;margin-top:14px;
+    border-top:1.5px dashed var(--line);padding-top:12px;}
+  .fcount{font-size:13px;color:var(--ink-soft);}
+  .fcount b{font-family:"Fraunces",serif;color:var(--coral-d);font-size:17px;}
+  .reset{cursor:pointer;font-family:"Caveat",cursive;font-size:17px;background:var(--paper2);
+    color:var(--coral-d);border:2px solid var(--line);border-radius:16px;padding:4px 16px;transition:all .13s;}
+  .reset:hover{background:#fde9e7;border-color:var(--coral);}
+
+  h2.sec{font-family:"Noto Serif TC",serif;font-size:23px;font-weight:900;margin:0 0 16px;
+    display:inline-flex;align-items:center;gap:10px;padding:6px 20px;border-radius:30px;}
+  h2.sec.main{background:#fde9e7;color:var(--coral-d);}
+  h2.sec.sp{background:#efe7fb;color:var(--lilac-d);}
+  h2.sec .c{font-family:"Caveat",cursive;font-size:18px;opacity:.85;}
+  .secnote{font-size:12.5px;color:var(--ink-soft);margin:0 0 16px 4px;}
+  .section{margin-bottom:30px;}
+  #mainstream,#special{display:grid;gap:12px;}
+  .job{display:grid;grid-template-columns:1fr auto;gap:6px 16px;padding:16px 18px;background:var(--card);
+    border:2px solid var(--line);border-radius:20px;box-shadow:0 5px 0 var(--paper2);
+    transition:transform .14s ease,box-shadow .14s ease,border-color .14s ease;}
+  .job:hover{transform:translateY(-3px);box-shadow:0 9px 0 var(--paper2);border-color:var(--mint);}
+  .job .title{font-weight:700;font-size:14.5px;line-height:1.45;}
+  .job .title a{color:var(--ink);text-decoration:none;background-image:linear-gradient(var(--butter),var(--butter));
+    background-size:0% 38%;background-repeat:no-repeat;background-position:0 88%;transition:background-size .2s;}
+  .job .title a:hover{background-size:100% 38%;}
+  .job .school{font-size:12.5px;color:var(--ink-soft);margin-top:3px;}
+  .job .school::before{content:"🏫 ";font-size:11px;}
+  .job .sub2{font-size:11.5px;color:var(--mint-d);margin-top:5px;font-weight:500;}
+  .right{text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:7px;}
+  .tag{display:inline-block;font-size:10.5px;padding:3px 11px;border-radius:20px;white-space:nowrap;font-weight:700;}
+  .t-perm{background:#e4f4ec;color:var(--mint-d);}
+  .t-contract{background:#fde9e7;color:var(--coral-d);}
+  .t-net{background:#fdf2d6;color:var(--butter-d);}
+  .t-new{background:var(--coral);color:#fff;box-shadow:0 0 0 3px #fde0dd;}
+  .t-sp{background:#efe7fb;color:var(--lilac-d);}
+  .t-lib{background:#e3f0fa;color:var(--sky-d);}
+  .date{font-size:12px;color:var(--ink-soft);font-family:"Caveat",cursive;font-weight:600;}
+  .empty{display:none;text-align:center;padding:40px 20px;color:var(--ink-soft);font-size:14.5px;
+    background:var(--card);border:2px dashed var(--line);border-radius:24px;}
+  footer{margin-top:42px;text-align:center;font-size:12.5px;color:var(--ink-soft);background:var(--paper2);border-radius:22px;padding:20px 24px;}
+  footer .star{font-family:"Caveat",cursive;font-size:18px;color:var(--coral-d);display:block;margin-bottom:6px;}
+  @media(max-width:560px){.job{grid-template-columns:1fr;}.right{flex-direction:row;align-items:center;flex-wrap:wrap;}}
+  .favchip.on{background:var(--coral);color:#fff;border-color:#e88;}
+  #favCnt{font-family:"Fraunces",serif;color:var(--coral-d);font-size:17px;}
+  .right{position:relative;}
+  .fav-btn{cursor:pointer;border:none;background:transparent;font-size:21px;line-height:1;
+    color:var(--coral);transition:transform .12s;padding:0;margin-bottom:2px;}
+  .fav-btn:hover{transform:scale(1.25);}
+  .fav-btn.on{color:var(--coral-d);text-shadow:0 0 0 var(--coral-d);animation:pop .25s ease;}
+  @keyframes pop{0%{transform:scale(1);}50%{transform:scale(1.4);}100%{transform:scale(1);}}
+  .toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%) translateY(20px);
+    background:var(--ink);color:#fff;padding:11px 22px;border-radius:20px;font-size:13.5px;
+    opacity:0;pointer-events:none;transition:all .3s;z-index:50;box-shadow:0 6px 18px rgba(0,0,0,.18);}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="tape">明報 JUMP ✎ 教育類精選</div>
+    <h1>小學教席 <span class="heart">♥</span> 文青精選</h1>
+    <p class="sub">從教育類職位逐頁細選，只留「小學教師」職位（PSM／APSM／GM 學位教師、科任老師、小學圖書館主任，以及特殊小學教席）。教學助理、工友、IT、幼稚園與中學職位通通隔走 ✨</p>
+    <div class="meta">☁ 最後更新 <span id="updated">載入中…</span> ・ 來源 <a href="https://jump.mingpao.com/job/search?JobAreaID%5B%5D=10-0" target="_blank">jump.mingpao.com</a></div>
+    <div class="progress">
+      <div class="t"><span>今日為你揀好的小學教席</span><span><b id="foundN">…</b> 個</span></div>
+      <div class="bar"><div class="fill"></div></div>
+    </div>
+  </header>
+
+  <div class="dash">
+    <div class="stat s-coral"><div class="n" id="dashTotal">…</div><div class="l">小學教席</div></div>
+    <div class="stat s-mint"><div class="n" id="dashMain">…</div><div class="l">主流 / 一條龍</div></div>
+    <div class="stat s-lilac"><div class="n" id="dashSp">…</div><div class="l">特殊小學</div></div>
+    <div class="stat s-butter"><div class="n" id="dashNew">…</div><div class="l">🆕 最近新出</div></div>
+    <div class="stat s-sky"><div class="n" id="dashFav">0</div><div class="l">♥ 我的收藏</div></div>
+  </div>
+
+  <div class="hl">
+    <h2>📌 重點筆記</h2>
+    <ul>
+      <li>幾乎全是 <b>2026/27 學年</b> 職位，9 月到職 —— 正值招聘旺季 🌷</li>
+      <li><b>英文</b> 需求最旺，其次中文（很多要 <b>普教中／普通話</b>）、數學、音樂、視藝、體育。</li>
+      <li>職級多為 <b>APSM／PSM／GM</b>，常額與合約並存。</li>
+      <li><b>跨科兼教</b> 很吃香（潮陽兼體育/IT、天虹兼普/英/體、惠州兼音樂/體育）—— 多一兩項可教科目大加分！</li>
+      <li>點任何職位名稱即可 <b>直達明報原頁</b> 看詳情與申請方法 💌</li>
+    </ul>
+  </div>
+
+  <div class="filters">
+    <input class="search" id="q" type="text" placeholder="🔍 搜尋學校或職位名稱…例如：英文、聖博德、大埔">
+    <div class="frow"><span class="flabel">科目</span><div class="chips" id="subjChips"></div></div>
+    <div class="frow"><span class="flabel">類型</span><div class="chips" id="tagChips"></div></div>
+    <div class="frow"><span class="flabel">收藏</span><div class="chips">
+      <span class="chip favchip" id="favOnly">♡ 只看收藏</span>
+      <span class="chip" id="copyFav">⎘ 複製收藏</span>
+      <span class="chip" id="clearFav">🗑 清除收藏</span>
+    </div></div>
+    <div class="fbar"><span class="fcount">顯示 <b id="cnt">50</b> 個 ・ 收藏 <b id="favCnt">0</b> ♡</span><button class="reset" id="reset">↺ 重設篩選</button></div>
+  </div>
+
+  <div class="section" id="sec-main">
+    <h2 class="sec main">主流小學教席 <span class="c" id="cMain">♪</span></h2>
+    <p class="secnote">標籤：<span class="tag t-perm">常額</span> <span class="tag t-contract">合約</span> <span class="tag t-net">NET</span> <span class="tag t-new">新 6/4</span> <span class="tag t-lib">圖書館</span></p>
+    <div id="mainstream"></div>
+  </div>
+
+  <div class="section" id="sec-sp">
+    <h2 class="sec sp">特殊小學教席 <span class="c" id="cSp">♡</span></h2>
+    <p class="secnote">服務對象為特殊教育需要學生，性質與主流小學不同。</p>
+    <div id="special"></div>
+  </div>
+
+  <div class="empty" id="empty">😅 揾唔到符合條件嘅職位～試下少揀幾個篩選，或者㩒「重設全部」。</div>
+
+  <div class="toast" id="toast"></div>
+  <footer>
+    <span class="star">✦ 加油，下一站是你的理想學校 ✦</span>
+    全部 50 個職位皆 2026-06-04 即時抓取，個別或已截止／額滿，請以明報原頁為準。涵蓋教育類首 21 頁；其中 2 個為一條龍中小學（設小學部）的小學職級教席（王錦輝），已標示。
+  </footer>
+</div>
+<script>
+
+// ===== 動態版：從 jobs.json 讀取最新職位 =====
+const tagMap={perm:["常額","t-perm"],contract:["合約","t-contract"],net:["NET","t-net"],
+  new:["新","t-new"],sp:["特殊","t-sp"],lib:["圖書館","t-lib"]};
+
+const subjectDefs=[
+  ['英文',/英文|english|net|外籍/i],['中文',/中文|普教中|普通話|語文/i],
+  ['數學',/數學|數/],['音樂',/音樂|音(?=\s|$|、|\/|）)/],
+  ['視藝',/視藝|視覺藝術|art/i],['體育',/體育|pe\b/i],
+  ['常識/STEAM',/steam|常識|科學|電腦|資訊|人文|科技/i],
+  ['圖書館',/圖書館|librarian/i],['各科/未指定',/各科|未指定|psm|apsm|gm/i],
+];
+const subjMap=Object.fromEntries(subjectDefs);
+const tagChipDefs=[['perm','常額'],['contract','合約'],['net','NET'],['new','新'],['lib','圖書館'],['sp','特殊']];
+
+const activeSubj=new Set(),activeTags=new Set();let favOnly=false;
+let data=[];
+
+const FAVKEY='tryeat_primary_fav';
+let favSet;
+try{favSet=new Set(JSON.parse(localStorage.getItem(FAVKEY)||'[]'));}catch(e){favSet=new Set();}
+function saveFav(){try{localStorage.setItem(FAVKEY,JSON.stringify([...favSet]));}catch(e){}}
+
+function set(id,v){const el=document.getElementById(id);if(el)el.textContent=v;}
+function tagHTML(t){return (t||[]).filter(x=>tagMap[x]).map(x=>`<span class="tag ${tagMap[x][1]}">${tagMap[x][0]}</span>`).join("");}
+function card(j){
+  const on=favSet.has(j.id);
+  return `<div class="job"><div><div class="title"><a href="${j.u}" target="_blank">${j.t}</a></div>`+
+    `<div class="school">${j.s}</div><div class="sub2">科目：${j.sub||'—'}</div></div>`+
+    `<div class="right"><button class="fav-btn ${on?'on':''}" data-id="${j.id}" title="加入收藏">${on?'♥':'♡'}</button>`+
+    `${tagHTML(j.tags)}<span class="date">${j.d||''}</span></div></div>`;
+}
+function pass(j){
+  if(favOnly&&!favSet.has(j.id))return false;
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  if(q&&!((j.t+j.s+(j.sub||'')).toLowerCase().includes(q)))return false;
+  if(activeSubj.size){const hay=j.t+" "+(j.sub||'');let ok=false;
+    for(const k of activeSubj){if(subjMap[k].test(hay)){ok=true;break;}}if(!ok)return false;}
+  if(activeTags.size){let ok=false;for(const tg of activeTags){if((j.tags||[]).includes(tg)){ok=true;break;}}if(!ok)return false;}
+  return true;
+}
+function render(){
+  const m=data.filter(j=>j.cat!=='sp'&&pass(j));
+  const s=data.filter(j=>j.cat==='sp'&&pass(j));
+  document.getElementById('mainstream').innerHTML=m.map(card).join("");
+  document.getElementById('special').innerHTML=s.map(card).join("");
+  document.getElementById('sec-main').style.display=m.length?'block':'none';
+  document.getElementById('sec-sp').style.display=s.length?'block':'none';
+  document.getElementById('empty').style.display=(m.length+s.length)?'none':'block';
+  document.getElementById('empty').textContent=favOnly&&favSet.size===0
+    ?'🤍 你仲未收藏任何職位～㩒每個職位右上角嘅 ♡ 加入收藏吧！'
+    :'😅 揾唔到符合條件嘅職位～試下少揀幾個篩選，或者㩒「重設篩選」。';
+  set('cnt',m.length+s.length);set('favCnt',favSet.size);set('dashFav',favSet.size);
+  set('cMain',m.length+' 個 ♪');set('cSp',s.length+' 個 ♡');
+}
+function buildChips(){
+  const sc=document.getElementById('subjChips');
+  subjectDefs.forEach(([k])=>{const c=document.createElement('span');c.className='chip';c.textContent=k;
+    c.onclick=()=>{c.classList.toggle('on');activeSubj.has(k)?activeSubj.delete(k):activeSubj.add(k);render();};sc.appendChild(c);});
+  const tc=document.getElementById('tagChips');
+  tagChipDefs.forEach(([tg,label])=>{const c=document.createElement('span');c.className='chip tg-'+tg;c.textContent=label;
+    c.onclick=()=>{c.classList.toggle('on');activeTags.has(tg)?activeTags.delete(tg):activeTags.add(tg);render();};tc.appendChild(c);});
+}
+let toastTimer;
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');
+  clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),1900);}
+
+function wire(){
+  document.addEventListener('click',e=>{const b=e.target.closest('.fav-btn');if(!b)return;
+    const id=b.dataset.id;favSet.has(id)?favSet.delete(id):favSet.add(id);saveFav();render();});
+  const favBtn=document.getElementById('favOnly');
+  favBtn.onclick=()=>{favOnly=!favOnly;favBtn.classList.toggle('on',favOnly);render();};
+  document.getElementById('clearFav').onclick=()=>{
+    if(!favSet.size){toast('未有收藏 🤍');return;}favSet.clear();saveFav();render();toast('已清除全部收藏 🧹');};
+  document.getElementById('copyFav').onclick=()=>{
+    const favs=data.filter(j=>favSet.has(j.id));
+    if(!favs.length){toast('未有收藏，㩒 ♡ 先收藏啦');return;}
+    const txt='♥ 我的小學教席收藏（'+favs.length+'）\n'+
+      favs.map((j,i)=>`${i+1}. ${j.s}｜${j.t}（科目：${j.sub||'—'}；${j.d||''}）\n   ${j.u}`).join('\n');
+    navigator.clipboard.writeText(txt).then(()=>toast('已複製 '+favs.length+' 個收藏 ✓')).catch(()=>toast('複製失敗，請手動選取'));};
+  document.getElementById('q').addEventListener('input',render);
+  document.getElementById('reset').onclick=()=>{
+    activeSubj.clear();activeTags.clear();favOnly=false;document.getElementById('q').value='';
+    favBtn.classList.remove('on');
+    document.querySelectorAll('#subjChips .chip.on, #tagChips .chip.on').forEach(c=>c.classList.remove('on'));render();};
+}
+function init(payload){
+  data=(payload.jobs||[]).map(j=>({...j,id:j.id||j.u.split('/').pop()}));
+  const upd=payload.updated?new Date(payload.updated):null;
+  set('updated',upd?upd.toLocaleString('zh-HK',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}):'—');
+  const total=data.length,mn=data.filter(j=>j.cat!=='sp').length,sp=data.filter(j=>j.cat==='sp').length,
+    nw=data.filter(j=>(j.tags||[]).includes('new')).length;
+  set('foundN',total);set('dashTotal',total);set('dashMain',mn);set('dashSp',sp);set('dashNew',nw);
+  buildChips();wire();render();
+}
+fetch('jobs.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})
+  .then(init)
+  .catch(err=>{
+    document.getElementById('mainstream').innerHTML=
+      '<div class="empty" style="display:block">⚠️ 載入 jobs.json 失敗（'+err+'）。<br>'+
+      '若用本機 file:// 直接開啟，瀏覽器會擋住讀取本地 JSON；請改用 GitHub Pages，或在資料夾跑 <code>python -m http.server</code> 後經 http 開啟。</div>';
+    document.getElementById('sec-main').style.display='block';
+    document.getElementById('sec-sp').style.display='none';
+    set('updated','載入失敗');set('foundN','—');
+  });
+
+</script>
+</body>
+</html>
