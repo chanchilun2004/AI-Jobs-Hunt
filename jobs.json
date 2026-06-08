@@ -1,42 +1,31 @@
 {
-  "updated": "2026-06-08T15:45:36+00:00",
-  "source": "https://jump.mingpao.com/job/search?JobAreaID[]=10-0",
-  "count": 279,
-  "new_count": 276,
+  "updated": "2026-06-08T07:00:00+00:00",
+  "count": 60,
+  "new_count": 4,
   "jobs": [
     {
-      "t": "合約常額助理小學學位教師 (九月入職)",
-      "s": "PO LEUNG KUK MR & MRS CHAN PAK KEUNG TSING YI SCHOOL 保良局陳百強伉儷青衣學校",
+      "t": "2026-2027 年度合約老師",
+      "s": "坪石天主教小學",
       "sub": "科目未指定",
       "d": "2026-06-08",
       "tags": [
-        "perm",
         "contract",
         "new"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049202",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=95edc544-f661-4cab-aafe-e158f0e78737&from=小學各科招聘",
       "cat": "main",
-      "id": "HS26049202",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科助理小學學位教師 (合約 / 常額)",
-      "s": "LOK SIN TONG LEUNG KAU KUI PRIMARY SCHOOL 樂善堂梁銶琚學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
+      "id": "hk:坪石天主教小學2026-2027 年度合約老師",
+      "src": "hktpost",
+      "area": "觀塘區",
+      "fund": "資助·天主教",
+      "sources": [
+        "hktpost"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049931",
-      "cat": "main",
-      "id": "HS26049931",
       "first_seen": "2026-06-08"
     },
     {
-      "t": "各科助理小學學位教師 (常額 / 合約)",
-      "s": "THE EDUCATION UNIVERSITY OF HONG KONG JOCKEY CLUB PRIMARY SCHOOL 香港教育大學賽馬會小學",
+      "t": "各科助理小學學位教師（常額 / 合約）",
+      "s": "香港教育大學賽馬會小學",
       "sub": "各科",
       "d": "2026-06-08",
       "tags": [
@@ -44,3852 +33,1129 @@
         "contract",
         "new"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050011",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e564e8d2-0a99-4cb0-9486-bfebab1bee86&from=小學各科招聘",
       "cat": "main",
-      "id": "HS26050011",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科教師 (合約) (2026/27 年度)",
-      "s": "FUNG KAI INNOVATIVE SCHOOL 鳳溪創新小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050251",
-      "cat": "main",
-      "id": "HS26050251",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teacher (2026-2027 Academic Year)",
-      "s": "THE IMC OF PO LEUNG KUK MRS CHAN NAM CHONG MEMORIAL PRIMARY SCHOOL 保良局陳南昌夫人小學 保良局陳南昌夫人小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048161",
-      "cat": "main",
-      "id": "HS26048161",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM / 合約老師",
-      "s": "YUK YIN SCHOOL 育賢學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049891",
-      "cat": "main",
-      "id": "HS26049891",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中國語文科教師",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050031",
-      "cat": "main",
-      "id": "HS26050031",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teacher",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050032",
-      "cat": "main",
-      "id": "HS26050032",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Mathematics Teacher",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050033",
-      "cat": "main",
-      "id": "HS26050033",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Integrated Science Teacher",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050034",
-      "cat": "main",
-      "id": "HS26050034",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "PSHE Teacher",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050035",
-      "cat": "main",
-      "id": "HS26050035",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約助理小學學位教師",
-      "s": "TUNG WAH GROUP OF HOSPITALS MA KAM CHAN MEMORIAL PRIMARY SCHOOL 東華三院馬錦燦紀念小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050071",
-      "cat": "main",
-      "id": "HS26050071",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "教師助理 / 學校發展助理",
-      "s": "TUNG WAH GROUP OF HOSPITALS MA KAM CHAN MEMORIAL PRIMARY SCHOOL 東華三院馬錦燦紀念小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050072",
-      "cat": "main",
-      "id": "HS26050072",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約助理小學學位教師 (2026 年 9 月到職)",
-      "s": "TUNG WAH GROUP OF HOSPITALS LO YU CHIK PRIMARY SCHOOL 東華三院羅裕積小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050121",
-      "cat": "main",
-      "id": "HS26050121",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Graduate Teacher (Sec. Section) (2026/27)",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050141",
-      "cat": "main",
-      "id": "HS26050141",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Physics Graduate Teacher (2026/27)",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050142",
-      "cat": "main",
-      "id": "HS26050142",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teaching Assistant (2026/27)",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050143",
-      "cat": "main",
-      "id": "HS26050143",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Primary / Secondary EAL Teacher (2026-2027)",
-      "s": "ELCHK LUTHERAN ACADEMY 宏信書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050152",
-      "cat": "main",
-      "id": "HS26050152",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Primary Music Teacher (2026-2027)",
-      "s": "ELCHK LUTHERAN ACADEMY 宏信書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050153",
-      "cat": "main",
-      "id": "HS26050153",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (2026/27 學年)",
-      "s": "THE CHURCH OF CHRIST IN CHINA KEI WAI PRIMARY SCHOOL 中華基督教會基慧小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050241",
-      "cat": "main",
-      "id": "HS26050241",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師(常額 / 合約) (26-27 年度)",
-      "s": "NORTHERN LAMMA SCHOOL 南丫北段公立小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050271",
-      "cat": "main",
-      "id": "HS26050271",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校社工 / 學生輔導員",
-      "s": "NORTHERN LAMMA SCHOOL 南丫北段公立小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050273",
-      "cat": "main",
-      "id": "HS26050273",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任",
-      "s": "NORTHERN LAMMA SCHOOL 南丫北段公立小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050274",
-      "cat": "main",
-      "id": "HS26050274",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "體育科常額 / 合約教師",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050291",
-      "cat": "main",
-      "id": "HS26050291",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科 (普教中) 常額 / 合約教師",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26050292",
-      "cat": "main",
-      "id": "HS26050292",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職合約教師 (2026/27 年度)",
-      "s": "THE HONG KONG CHINESE WOMEN'S CLUB HIOE TJO YOENG PRIMARY SCHOOL 香港中國婦女會丘佐榮學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047301",
-      "cat": "main",
-      "id": "HS26047301",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Non-EDB NET (Full-Time)",
-      "s": "THE EDUCATION UNIVERSITY OF HONG KONG JOCKEY CLUB PRIMARY SCHOOL 香港教育大學賽馬會小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049001",
-      "cat": "main",
-      "id": "HS26049001",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (常額) (2026/27 學年)",
-      "s": "TWGHS CHI-LI PAO SCHOOL 東華三院包玉星學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049071",
-      "cat": "main",
-      "id": "HS26049071",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約英文教師 (2026-2027 年度)",
-      "s": "S.K.H. CHU OI PRIMARY SCHOOL 聖公會主愛小學(梨木樹)",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049081",
-      "cat": "main",
-      "id": "HS26049081",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位 APSM / 合約教師 (中文 / 科學)",
-      "s": "FREE METHODIST MEI LAM PRIMARY SCHOOL 循理會美林小學",
-      "sub": "中文 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049091",
-      "cat": "main",
-      "id": "HS26049091",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Native-speaking English Teacher (Part time)",
-      "s": "FREE METHODIST MEI LAM PRIMARY SCHOOL 循理會美林小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049092",
-      "cat": "main",
-      "id": "HS26049092",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Language Teacher (Commence from September 2026)",
-      "s": "YING WA PRIMARY SCHOOL 英華小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049131",
-      "cat": "main",
-      "id": "HS26049131",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額英文科及音樂科助理小學學位教師",
-      "s": "ELCHK KWAI SHING LUTHERAN PRIMARY SCHOOL 基督教香港信義會葵盛信義學校",
-      "sub": "英文 / 音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049151",
-      "cat": "main",
-      "id": "HS26049151",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約音樂科助理小學學位教師",
-      "s": "ELCHK KWAI SHING LUTHERAN PRIMARY SCHOOL 基督教香港信義會葵盛信義學校",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049152",
-      "cat": "main",
-      "id": "HS26049152",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約英文科助理小學學位教師",
-      "s": "ELCHK KWAI SHING LUTHERAN PRIMARY SCHOOL 基督教香港信義會葵盛信義學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049153",
-      "cat": "main",
-      "id": "HS26049153",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約助理小學學位教師 (英文科) (2026/2027 年度)",
-      "s": "SIK SIK YUEN 嗇色園",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS260491812",
-      "cat": "main",
-      "id": "HS260491812",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額及合約英文 (兼教音) 教師",
-      "s": "STEWARDS POOI KEI PRIMARY SCHOOL 培基小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049221",
-      "cat": "main",
-      "id": "HS26049221",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額、合約教師",
-      "s": "MA ON SHAN ST. JOSEPH'S PRIMARY SCHOOL 馬鞍山聖若瑟小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049232",
-      "cat": "main",
-      "id": "HS26049232",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (合約) (2026-2027 年度)",
-      "s": "SALESIAN YIP HON MILLENNIUM PRIMARY  SCHOOL 慈幼葉漢千禧小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049311",
-      "cat": "main",
-      "id": "HS26049311",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "特殊教育需要統籌主任 (26-27 學年)",
-      "s": "THE ENDEAVOURERS LEUNG LEE SAU YU MEMORIAL PRIMARY SCHOOL 勵志會梁李秀娛紀念小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049381",
-      "cat": "sp",
-      "id": "HS26049381",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任 (常額) (2026-2027 年度)",
-      "s": "SKH KEI HIN PRIMARY SCHOOL 聖公會基顯小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049602",
-      "cat": "main",
-      "id": "HS26049602",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學生輔導員 (合約) (2026-2027 年度)",
-      "s": "SKH KEI HIN PRIMARY SCHOOL 聖公會基顯小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049603",
-      "cat": "main",
-      "id": "HS26049603",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約學生輔導人員",
-      "s": "PO LEUNG KUK TIN KA PING MILLENNIUM PRIMARY SCHOOL 保良局田家炳千禧小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048331",
-      "cat": "main",
-      "id": "HS26048331",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科助理小學學位教師 (合約)",
-      "s": "S.K.H. TIN WAN CHI NAM PRIMARY SCHOOL 聖公會田灣始南小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048351",
-      "cat": "main",
-      "id": "HS26048351",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任 (合約 / 常額)",
-      "s": "CHUN KWONG PRIMARY SCHOOL 中華基督教會元朗真光小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048381",
-      "cat": "main",
-      "id": "HS26048381",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額圖書館老師 (助理小學學位教師)",
-      "s": "LAICHIKOK CATHOLIC PRIMARY SCHOOL 荔枝角天主教小學",
-      "sub": "圖書館",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "lib",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048481",
-      "cat": "main",
-      "id": "HS26048481",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (數學科、體育科)",
-      "s": "TSZ WAN SHAN ST BONAVENTURE CATHOLIC PRIMARY SCHOOL 慈雲山聖文德天主教小學",
-      "sub": "數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048501",
-      "cat": "main",
-      "id": "HS26048501",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (音樂科)",
-      "s": "TSZ WAN SHAN ST BONAVENTURE CATHOLIC PRIMARY SCHOOL 慈雲山聖文德天主教小學",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048502",
-      "cat": "main",
-      "id": "HS26048502",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Full-time Native-speaking English Teacher (Contract / Permanent) (Not under EDB NET scheme) (2026/27 學年)",
-      "s": "KEI TSZ PRIMARY SCHOOL 中華基督教會基慈小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048511",
-      "cat": "main",
-      "id": "HS26048511",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科教師 (常額 / 合約) (2026/27 學年)",
-      "s": "KEI TSZ PRIMARY SCHOOL 中華基督教會基慈小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048512",
-      "cat": "main",
-      "id": "HS26048512",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Language Teaching Assistant (ELTA) (2026/2027)",
-      "s": "NG WAH CATHOLIC PRIMARY SCHOOL 天主教伍華小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048541",
-      "cat": "main",
-      "id": "HS26048541",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科合約教師 (2026-27 年度)",
-      "s": "TAI PO METHODIST SCHOOL 大埔循道衛理小學",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048561",
-      "cat": "main",
-      "id": "HS26048561",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科合約教師 (2026-27 年度)",
-      "s": "TAI PO METHODIST SCHOOL 大埔循道衛理小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048562",
-      "cat": "main",
-      "id": "HS26048562",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額 / 合約助理小學學位教師",
-      "s": "JORDAN VALLEY ST. JOSEPH'S CATHOLIC  PRIMARY SCHOOL 佐敦谷聖若瑟天主教小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048611",
-      "cat": "main",
-      "id": "HS26048611",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 APSM / GM (體育 / 音樂科優先考慮)",
-      "s": "HONG CHI PINEHILL NO 2 SCHOOL 匡智松嶺第二校",
-      "sub": "音樂 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048621",
-      "cat": "sp",
-      "id": "HS26048621",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理支援教師 (2026/27 年度)",
-      "s": "CHRISTIAN ALLIANCE TOI SHAN H.C. CHAN  PRIMARY SCHOOL 宣道會台山陳元喜小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048651",
-      "cat": "main",
-      "id": "HS26048651",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約中文 / 英文教師 APSM",
-      "s": "SKH KEI TAK PRIMARY SCHOOL 聖公會基德小學",
-      "sub": "英文 / 中文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048711",
-      "cat": "main",
-      "id": "HS26048711",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科助理小學學位教師 APSM (常額 / 合約) (2026/2027 年度)",
-      "s": "WU SI CHONG MEMORIAL SCHOOL 僑港伍氏宗親會伍時暢紀念學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048781",
-      "cat": "main",
-      "id": "HS26048781",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額 / 合約教師",
-      "s": "SKH ST PETER'S PRIMARY SCHOOL 聖公會聖彼得小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048841",
-      "cat": "main",
-      "id": "HS26048841",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 GM / APSM (26-27 年度) (學校部)",
-      "s": "CHI YUN SCHOOL 慈恩學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048872",
-      "cat": "main",
-      "id": "HS26048872",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM",
-      "s": "LOK SIN TONG YEUNG CHUNG MING PRIMARY SCHOOL 樂善堂楊仲明學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048931",
-      "cat": "main",
-      "id": "HS26048931",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約支援教師",
-      "s": "LOK SIN TONG YEUNG CHUNG MING PRIMARY SCHOOL 樂善堂楊仲明學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048932",
-      "cat": "main",
-      "id": "HS26048932",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任",
-      "s": "LOK SIN TONG YEUNG CHUNG MING PRIMARY SCHOOL 樂善堂楊仲明學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048933",
-      "cat": "main",
-      "id": "HS26048933",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學生輔導員",
-      "s": "LOK SIN TONG YEUNG CHUNG MING PRIMARY SCHOOL 樂善堂楊仲明學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048934",
-      "cat": "main",
-      "id": "HS26048934",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "A Full-time English Language Teaching Assistant (ELTA) (2026-2027)",
-      "s": "HHCKLA BUDDHIST CHAN SHI WAN PRIMARY SCHOOL 香海正覺蓮社佛教陳式宏學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048981",
-      "cat": "main",
-      "id": "HS26048981",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (中文、英文教師各一名) (26/27 年度)",
-      "s": "SHAM TSENG CATHOLIC PRIMARY SCHOOL 深井天主教小學",
-      "sub": "英文 / 中文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049041",
-      "cat": "main",
-      "id": "HS26049041",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中國語文科教師 (APSM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049061",
-      "cat": "main",
-      "id": "HS26049061",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Citizenship, Economics and Society Teacher 公民、經濟與社會科教師 (GM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049062",
-      "cat": "main",
-      "id": "HS26049062",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teacher (APSM / GM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049063",
-      "cat": "main",
-      "id": "HS26049063",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Mathematics Teacher (APSM / GM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049064",
-      "cat": "main",
-      "id": "HS26049064",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Integrated Humanities / BAFS Teacher (GM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049065",
-      "cat": "main",
-      "id": "HS26049065",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Chemistry Teacher (GM / SGM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049066",
-      "cat": "main",
-      "id": "HS26049066",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Biology Teacher (GM / SGM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049067",
-      "cat": "main",
-      "id": "HS26049067",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Visual Arts Teacher (GM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049068",
-      "cat": "main",
-      "id": "HS26049068",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Physical Education Teacher (APSM)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26049069",
-      "cat": "main",
-      "id": "HS26049069",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學位教師 / 助理小學學位教師 (全職 / 兼職) (Full-time / Part-time GM / APSM) (特殊教育服務)",
-      "s": "CARITAS SPECIAL EDUCATION SERVICE",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047201",
-      "cat": "sp",
-      "id": "HS26047201",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約學位教師 / 助理小學學位教師 / 文憑教師 GM / APSM / CM (特殊教育服務)",
-      "s": "CARITAS SPECIAL EDUCATION SERVICE",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047209",
-      "cat": "sp",
-      "id": "HS26047209",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (中文 / 英文 / 數學) (26-27 年度)",
-      "s": "YAN TAK CATHOLIC PRIMARY SCHOOL 仁德天主教小學",
-      "sub": "英文 / 中文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047341",
-      "cat": "main",
-      "id": "HS26047341",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 (英文科) (2026-2027 年度)",
-      "s": "LUI CHEUNG KWONG LUTHERAN PRIMARY SCHOOL 路德會呂祥光小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047351",
-      "cat": "main",
-      "id": "HS26047351",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額及合約教師 (體育科) (2026-2027 年度)",
-      "s": "LUI CHEUNG KWONG LUTHERAN PRIMARY SCHOOL 路德會呂祥光小學",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047352",
-      "cat": "main",
-      "id": "HS26047352",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Native-speaking English Teacher (Non-EDB NET) (2026-2027)",
-      "s": "ALLIANCE PRIMARY SCHOOL WHAMPOA 黃埔宣道小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047421",
-      "cat": "main",
-      "id": "HS26047421",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師",
-      "s": "LING TO CATHOLIC PRIMARY SCHOOL 天主教領島學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047671",
-      "cat": "main",
-      "id": "HS26047671",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "課程統籌主任 PSM (CD)",
-      "s": "LING TO CATHOLIC PRIMARY SCHOOL 天主教領島學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047672",
-      "cat": "main",
-      "id": "HS26047672",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM",
-      "s": "ST EDWARD'S CATHOLIC PRIMARY SCHOOL 聖愛德華天主教小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047701",
-      "cat": "main",
-      "id": "HS26047701",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Director of English Musical (2026-27)",
-      "s": "HKUGA PRIMARY SCHOOL 港大同學會小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047761",
-      "cat": "main",
-      "id": "HS26047761",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Musical Instrument Class Tutor (Part-time) (2026-27)",
-      "s": "HKUGA PRIMARY SCHOOL 港大同學會小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047762",
-      "cat": "main",
-      "id": "HS26047762",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "1-Year Contract Full-Time Native-Speaking English Teacher (2026-2027)",
-      "s": "CHIU YANG PRIMARY SCHOOL OF HONG KONG 香港潮陽小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047811",
-      "cat": "main",
-      "id": "HS26047811",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中、小學教師 (編制及非編制教席) (2026 年 9 月 1 日到職)",
-      "s": "ROTARY CLUB OF HONG KONG ISLAND WEST HONG CHI MORNINGHOPE SCHOOL 香港西區扶輪社匡智晨輝學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047821",
-      "cat": "sp",
-      "id": "HS26047821",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (英文) (2026-2027 學年)",
-      "s": "CHI HONG PRIMARY SCHOOL 慈航學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047991",
-      "cat": "main",
-      "id": "HS26047991",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (體育) (2026-2027 學年)",
-      "s": "CHI HONG PRIMARY SCHOOL 慈航學校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047992",
-      "cat": "main",
-      "id": "HS26047992",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (音樂) (2026-2027 學年)",
-      "s": "CHI HONG PRIMARY SCHOOL 慈航學校",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047993",
-      "cat": "main",
-      "id": "HS26047993",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (圖書) (2026-2027 學年)",
-      "s": "CHI HONG PRIMARY SCHOOL 慈航學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047994",
-      "cat": "main",
-      "id": "HS26047994",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Full time Native-speaking English Teacher (School-based NET not under the EDB NET Scheme, 2026-2027)",
-      "s": "CHI HONG PRIMARY SCHOOL 慈航學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047995",
-      "cat": "main",
-      "id": "HS26047995",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科助理小學學位教師 (常額 / 合約) (2026-27 年度)",
-      "s": "G.C.E. PAST STUDENTS' ASSOCIATION WHAMPOA PRIMARY SCHOOL 葛量洪校友會黃埔學校",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26048101",
-      "cat": "main",
-      "id": "HS26048101",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "特殊教育需要支援老師 (中小學) SEN Support Teacher (GM)",
-      "s": "EVANGEL COLLEGE 播道書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046079",
-      "cat": "sp",
-      "id": "HS26046079",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Qualified Teacher of Maths (taught in English) / English (2026-2027)",
-      "s": "LA SALLE PRIMARY SCHOOL 喇沙小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046361",
-      "cat": "main",
-      "id": "HS26046361",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Clerical Assistant",
-      "s": "LA SALLE PRIMARY SCHOOL 喇沙小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046363",
-      "cat": "main",
-      "id": "HS26046363",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teaching Assistant",
-      "s": "LA SALLE PRIMARY SCHOOL 喇沙小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046364",
-      "cat": "main",
-      "id": "HS26046364",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "編制常額教師 (科學科及英文科) APSM (2026/27 學年)",
-      "s": "YAUMATI CATHOLIC PRIMARY SCHOOL (HOI WANG ROAD) 油蔴地天主教小學(海泓道)",
-      "sub": "英文 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046371",
-      "cat": "main",
-      "id": "HS26046371",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (常額 / 合約) (26/27 學年)",
-      "s": "PO LEUNG KUK VICWOOD K.T.CHONG NO 2 PRIMARY SCHOOL 保良局莊啟程第二小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046391",
-      "cat": "main",
-      "id": "HS26046391",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科老師 (助理小學學位教師)",
-      "s": "ALLIANCE PRIMARY SCHOOL (KOWLOON TONG) 九龍塘宣道小學",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046401",
-      "cat": "main",
-      "id": "HS26046401",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM (常額職位) (2026/2027)",
-      "s": "TUNG WAH GROUP OF HOSPITALS TSUI TSIN TONG SCHOOL 東華三院徐展堂學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046422",
-      "cat": "main",
-      "id": "HS26046422",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 APSM (電腦 / 科學)",
-      "s": "CARMEL LEUNG SING TAK SCHOOL 迦密梁省德學校",
-      "sub": "STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046441",
-      "cat": "main",
-      "id": "HS26046441",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teacher (English / Maths and Music) (APSM) (2026-2027)",
-      "s": "MARYKNOLL CONVENT SCHOOL PRIMARY SECTION 瑪利諾修院學校-小學部",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046451",
-      "cat": "main",
-      "id": "HS26046451",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科 / 數學科，常額 / 合約教師一名 (可兼教體音視優先) (2026-2027 年度)",
-      "s": "C & MA CHUI CHAK LAM MEMORIAL SCHOOL 基督教宣道會徐澤林紀念小學",
-      "sub": "英文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046551",
-      "cat": "main",
-      "id": "HS26046551",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科老師 APSM",
-      "s": "PUI LING SCHOOL OF THE PRECIOUS BLOOD 寶血會培靈學校",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046571",
-      "cat": "main",
-      "id": "HS26046571",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科教師 (合約) (2026-2027 年度)",
-      "s": "PO LEUNG KUK GRANDMONT PRIMARY SCHOOL 保良局錦泰小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046601",
-      "cat": "main",
-      "id": "HS26046601",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (常額 / 合約)",
-      "s": "BUDDHIST CHING KOK LIN ASSOCIATION SCHOOL 香海正覺蓮社佛教正覺蓮社學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046621",
-      "cat": "main",
-      "id": "HS26046621",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科及體育科教師 (合約) (2026/27 年度)",
-      "s": "CHRISTIAN ALLIANCE H C CHAN PRIMARY SCHOOL 宣道會陳元喜小學",
-      "sub": "中文 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046651",
-      "cat": "main",
-      "id": "HS26046651",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中、英、數各科老師 (常額 / 合約)",
-      "s": "THE CHURCH OF CHRIST IN CHINA KEI WAN PRIMARY SCHOOL (ALDRICH BAY) 中華基督教會基灣小學 (愛蝶灣)",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046701",
-      "cat": "main",
-      "id": "HS26046701",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "創意媒體及宣傳專員",
-      "s": "THE CHURCH OF CHRIST IN CHINA KEI WAN PRIMARY SCHOOL (ALDRICH BAY) 中華基督教會基灣小學 (愛蝶灣)",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046702",
-      "cat": "main",
-      "id": "HS26046702",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校圖書館老師 / 支援老師 (須兼教中 / 英) (合約)",
-      "s": "CHRISTIAN ALLIANCE S Y YEH MEMORIAL PRIMARY SCHOOL 宣道會葉紹蔭紀念小學",
-      "sub": "圖書館",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "lib",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046731",
-      "cat": "main",
-      "id": "HS26046731",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Native-speaking English Teacher (under NET Grant)",
-      "s": "ISLAMIC PRIMARY SCHOOL 伊斯蘭學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046811",
-      "cat": "main",
-      "id": "HS26046811",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "NET Teaching Assistant (TA)",
-      "s": "ISLAMIC PRIMARY SCHOOL 伊斯蘭學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046812",
-      "cat": "main",
-      "id": "HS26046812",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "APSM Teacher (MATH) (Effective From 1 Sept 2026)",
-      "s": "W F JOSEPH LEE PRIMARY SCHOOL 和富慈善基金李宗德小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046831",
-      "cat": "main",
-      "id": "HS26046831",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "TSSO 全職合約技術支援服務員 (1 名) (8 月中到職)",
-      "s": "TUNG WAH GROUP OF HOSPITALS LI CHI HO PRIMARY SCHOOL 東華三院李賜豪小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046841",
-      "cat": "main",
-      "id": "HS26046841",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額教師 1 名 (2026 年 9 月 1 日到職)",
-      "s": "TUNG WAH GROUP OF HOSPITALS LI CHI HO PRIMARY SCHOOL 東華三院李賜豪小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046842",
-      "cat": "main",
-      "id": "HS26046842",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "TA 全職合約教師助理 (1 名) (即時到職)",
-      "s": "TUNG WAH GROUP OF HOSPITALS LI CHI HO PRIMARY SCHOOL 東華三院李賜豪小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046843",
-      "cat": "main",
-      "id": "HS26046843",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (中、英、體育)",
-      "s": "S.K.H. GOOD SHEPHERD PRIMARY SCHOOL 聖公會牧愛小學",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046921",
-      "cat": "main",
-      "id": "HS26046921",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Native-speaking English Teacher (NET) (2026/27)",
-      "s": "THE CHURCH OF CHRIST IN CHINA CHUEN YUEN SECOND PRIMARY SCHOOL 中華基督教會全完第二小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047001",
-      "cat": "main",
-      "id": "HS26047001",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "多媒體助理",
-      "s": "THE CHURCH OF CHRIST IN CHINA CHUEN YUEN SECOND PRIMARY SCHOOL 中華基督教會全完第二小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047003",
-      "cat": "main",
-      "id": "HS26047003",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約老師 (主修中文 / 英文 / 音樂 / 體育)",
-      "s": "SKH CHU YAN PRIMARY SCHOOL 聖公會主恩小學",
-      "sub": "英文 / 中文 / 音樂 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047031",
-      "cat": "main",
-      "id": "HS26047031",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "圖書館主任 (合約)",
-      "s": "SKH CHU YAN PRIMARY SCHOOL 聖公會主恩小學",
-      "sub": "圖書館",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "lib",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047032",
-      "cat": "main",
-      "id": "HS26047032",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師 (數學科)",
-      "s": "PO LEUNG KUK LAM MAN CHAN ENGLISH PRIMARY SCHOOL 保良局林文燦英文小學",
-      "sub": "英文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047111",
-      "cat": "main",
-      "id": "HS26047111",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師 (體育科)",
-      "s": "PO LEUNG KUK LAM MAN CHAN ENGLISH PRIMARY SCHOOL 保良局林文燦英文小學",
-      "sub": "英文 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047112",
-      "cat": "main",
-      "id": "HS26047112",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師 (科學科)",
-      "s": "PO LEUNG KUK LAM MAN CHAN ENGLISH PRIMARY SCHOOL 保良局林文燦英文小學",
-      "sub": "英文 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047113",
-      "cat": "main",
-      "id": "HS26047113",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師 (視藝科)",
-      "s": "PO LEUNG KUK LAM MAN CHAN ENGLISH PRIMARY SCHOOL 保良局林文燦英文小學",
-      "sub": "英文 / 視藝",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047114",
-      "cat": "main",
-      "id": "HS26047114",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (視藝科) (26-27 年度)",
-      "s": "QUEEN ELIZABETH SCHOOL OLD STUDENTS' ASSOCIATION BRANCH PRIMARY SCHOOL 伊利沙伯中學舊生會小學分校",
-      "sub": "視藝",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047141",
-      "cat": "main",
-      "id": "HS26047141",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teacher (Regular / Contract, APSM) (2026/2027)",
-      "s": "CHO YIU CATHOLIC PRIMARY SCHOOL 祖堯天主教小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047171",
-      "cat": "main",
-      "id": "HS26047171",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "數學科教師 (合約) (2026/2027)",
-      "s": "CHO YIU CATHOLIC PRIMARY SCHOOL 祖堯天主教小學",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047172",
-      "cat": "main",
-      "id": "HS26047172",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "創新與科技學習主任 (常額小學學位或助理小學學位教師 PSM / APSM) (2026/2027)",
-      "s": "TAI PO OLD MARKET PUBLIC SCHOOL (PLOVER COVE) 大埔舊墟公立學校(寶湖道)",
-      "sub": "STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047181",
-      "cat": "main",
-      "id": "HS26047181",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科助理小學學位教師 APSM (常額 / 合約) (2026/2027)",
-      "s": "TAI PO OLD MARKET PUBLIC SCHOOL (PLOVER COVE) 大埔舊墟公立學校(寶湖道)",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047182",
-      "cat": "main",
-      "id": "HS26047182",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (中文) (2026/27 學年)",
-      "s": "STFA WU SIU KUI MEMORIAL PRIMARY SCHOOL 順德聯誼總會胡少渠紀念小學",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047241",
-      "cat": "main",
-      "id": "HS26047241",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (英文) (2026/27 學年)",
-      "s": "STFA WU SIU KUI MEMORIAL PRIMARY SCHOOL 順德聯誼總會胡少渠紀念小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047242",
-      "cat": "main",
-      "id": "HS26047242",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (音樂) (2026/27 學年)",
-      "s": "STFA WU SIU KUI MEMORIAL PRIMARY SCHOOL 順德聯誼總會胡少渠紀念小學",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047243",
-      "cat": "main",
-      "id": "HS26047243",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (科學) (2026/27 學年)",
-      "s": "STFA WU SIU KUI MEMORIAL PRIMARY SCHOOL 順德聯誼總會胡少渠紀念小學",
-      "sub": "STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047244",
-      "cat": "main",
-      "id": "HS26047244",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約半職教師 (2026/27 學年)",
-      "s": "STFA WU SIU KUI MEMORIAL PRIMARY SCHOOL 順德聯誼總會胡少渠紀念小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047245",
-      "cat": "main",
-      "id": "HS26047245",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Senior Teaching post (Head of Academic) (equivalent to SPSM rank) (Primary Division)",
-      "s": "HONG KONG CHINESE CHRISTIAN CHURCHES UNION LOGOS ACADEMY",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047251",
-      "cat": "main",
-      "id": "HS26047251",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 APSM (CHIN、ENG、MATHS)",
-      "s": "THE IMC OF CUHK FAA THOMAS CHEUNG SCHOOL 香港中文大學校友會聯會張煊昌學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047261",
-      "cat": "main",
-      "id": "HS26047261",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約英文教師 APSM",
-      "s": "SKH KEI TAK PRIMARY SCHOOL 聖公會基德小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044611",
-      "cat": "main",
-      "id": "HS26044611",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位 APSM 教師 (英文科)",
-      "s": "SKH ST MATTHEW'S PRIMARY SCHOOL 聖公會聖馬太小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046021",
-      "cat": "main",
-      "id": "HS26046021",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Graduate Teacher of Chinese Language",
-      "s": "DIOCESAN GIRLS' JUNIOR SCHOOL 拔萃女小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044851",
-      "cat": "main",
-      "id": "HS26044851",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Graduate Teacher of Scripture",
-      "s": "DIOCESAN GIRLS' JUNIOR SCHOOL 拔萃女小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044852",
-      "cat": "main",
-      "id": "HS26044852",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (中文科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044951",
-      "cat": "main",
-      "id": "HS26044951",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (英文科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044952",
-      "cat": "main",
-      "id": "HS26044952",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (數學科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044953",
-      "cat": "main",
-      "id": "HS26044953",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (主題科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044954",
-      "cat": "main",
-      "id": "HS26044954",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (視藝科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "視藝",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044955",
-      "cat": "main",
-      "id": "HS26044955",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (音樂科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044956",
-      "cat": "main",
-      "id": "HS26044956",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (體育科) (2026/27 學年)",
-      "s": "FUKIEN SECONDARY SCHOOL AFFILIATED  SCHOOL 福建中學附屬學校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044957",
-      "cat": "main",
-      "id": "HS26044957",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科中 / 小學教師 (CM / APSM / GM) (2026 年 9 月到職)",
-      "s": "RHENISH CHURCH GRACE SCHOOL 禮賢會恩慈學校",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045151",
-      "cat": "main",
-      "id": "HS26045151",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學體育科助理學位教師",
-      "s": "CHAN'S CREATIVE SCHOOL 啟基學校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045571",
-      "cat": "main",
-      "id": "HS26045571",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "APSM 助理小學學位教師 (合約 / 常額) - 體育科教師",
-      "s": "SHATIN TSUNG TSIN SCHOOL 沙田崇真學校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045581",
-      "cat": "main",
-      "id": "HS26045581",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (26/27 年度)",
-      "s": "T.W.G.HS. SIN CHU WAN PRIMARY SCHOOL 東華三院冼次雲小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045661",
-      "cat": "main",
-      "id": "HS26045661",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM (常額 / 合約)",
-      "s": "THE JOCKEY CLUB HONG CHI SCHOOL 賽馬會匡智學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045701",
-      "cat": "sp",
-      "id": "HS26045701",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科教師 (常額 / 合約) (2026-2027 年度)",
-      "s": "BAPTIST LUI MING CHOI PRIMARY SCHOOL 浸信會呂明才小學",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045731",
-      "cat": "main",
-      "id": "HS26045731",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Supply Teacher (Physical Education) 小學體育科代課老師",
-      "s": "W F JOSEPH LEE PRIMARY SCHOOL 和富慈善基金李宗德小學",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045771",
-      "cat": "main",
-      "id": "HS26045771",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "APSM Teacher (ENG & VA) (Effective From 1 Sept 2026)",
-      "s": "W F JOSEPH LEE PRIMARY SCHOOL 和富慈善基金李宗德小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045772",
-      "cat": "main",
-      "id": "HS26045772",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Part-time APSM Teachers (ENG / VA) (Effective From 1 Sept 2026)",
-      "s": "W F JOSEPH LEE PRIMARY SCHOOL 和富慈善基金李宗德小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045773",
-      "cat": "main",
-      "id": "HS26045773",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Special Educational Needs (SEN) Teaching Assistant",
-      "s": "W F JOSEPH LEE PRIMARY SCHOOL 和富慈善基金李宗德小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045774",
-      "cat": "main",
-      "id": "HS26045774",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約英文 / 數學 / 科學科教師 (2026-2027 年度)",
-      "s": "RAIMONDI COLLEGE PRIMARY SECTION 高主教書院小學部",
-      "sub": "英文 / 數學 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045781",
-      "cat": "main",
-      "id": "HS26045781",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科主任 (小學學位教師 PSM) (津小)",
-      "s": "BUDDHIST CHUNG WAH KORNHILL PRIMARY SCHOOL 佛教中華康山學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045861",
-      "cat": "main",
-      "id": "HS26045861",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約 / 常額助理小學學位教師 (英文或體育) (津小)",
-      "s": "BUDDHIST CHUNG WAH KORNHILL PRIMARY SCHOOL 佛教中華康山學校",
-      "sub": "英文 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045862",
-      "cat": "main",
-      "id": "HS26045862",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學生輔導人員 (津小)",
-      "s": "BUDDHIST CHUNG WAH KORNHILL PRIMARY SCHOOL 佛教中華康山學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045863",
-      "cat": "main",
-      "id": "HS26045863",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約支援教師 (津小)",
-      "s": "BUDDHIST CHUNG WAH KORNHILL PRIMARY SCHOOL 佛教中華康山學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045864",
-      "cat": "main",
-      "id": "HS26045864",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科合約 / 常額助理小學學位教師 (2026/2027 年度)",
-      "s": "QUEEN ELIZABETH SCHOOL OLD STUDENTS' ASSOCIATION PRIMARY SCHOOL 伊利沙伯中學舊生會小學",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046061",
-      "cat": "main",
-      "id": "HS26046061",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職或半職合約常額教師 (2026/27)",
-      "s": "SKH HOLY CARPENTER PRIMARY SCHOOL 聖公會聖匠小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046091",
-      "cat": "main",
-      "id": "HS26046091",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (2026/27)",
-      "s": "SKH HOLY CARPENTER PRIMARY SCHOOL 聖公會聖匠小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046092",
-      "cat": "main",
-      "id": "HS26046092",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任 (2026/27)",
-      "s": "SKH HOLY CARPENTER PRIMARY SCHOOL 聖公會聖匠小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26046101",
-      "cat": "main",
-      "id": "HS26046101",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 (小學英文科) (2026-2027 學年)",
-      "s": "HONG KONG RED CROSS HOSPITAL SCHOOLS 香港紅十字會醫院學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043641",
-      "cat": "sp",
-      "id": "HS26043641",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (中 / 英 / 數) 或特殊教育支援老師 (SENST)",
-      "s": "TAI KOK TSUI CATHOLIC PRIMARY SCHOOL 大角嘴天主教小學",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043931",
-      "cat": "sp",
-      "id": "HS26043931",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 (2026-27 學年)",
-      "s": "ASBURY METHODIST PRIMARY SCHOOL 循道衞理聯合教會亞斯理衞理小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044771",
-      "cat": "main",
-      "id": "HS26044771",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全年各科代課教師 (2026-27 學年)",
-      "s": "ASBURY METHODIST PRIMARY SCHOOL 循道衞理聯合教會亞斯理衞理小學",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044772",
-      "cat": "main",
-      "id": "HS26044772",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "臨時助理小學學位教師 (官立小學非公務員教學職位空缺)",
-      "s": "教育局",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044831",
-      "cat": "main",
-      "id": "HS26044831",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學學位教師 PSM (2026/27 年度)",
-      "s": "SAM SHUI NATIVES ASSOCIATION SCHOOL HUEN KING WING SCHOOL 三水同鄉會禤景榮學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044941",
-      "cat": "main",
-      "id": "HS26044941",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額教師 APSM (中文科) (2026/27 年度)",
-      "s": "SAM SHUI NATIVES ASSOCIATION SCHOOL HUEN KING WING SCHOOL 三水同鄉會禤景榮學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044942",
-      "cat": "main",
-      "id": "HS26044942",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 (心光學校)",
-      "s": "EBENEZER SCHOOL & HOME FOR THE VISUALLY IMPAIRED 心光盲人院暨學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044981",
-      "cat": "sp",
-      "id": "HS26044981",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約 APSM 教師 (中文 / 英文 / 數學科) (2026-2027 學年)",
-      "s": "CHINESE METHODIST SCHOOL TANNER HILL 丹拿山循道學校",
-      "sub": "英文 / 中文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045351",
-      "cat": "main",
-      "id": "HS26045351",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 / 合約教師 (英文 / 體育 / 音樂優先考慮) (26/27 年度)",
-      "s": "YAN CHAI HOSPITAL CHIU TSANG HOK WAN PRIMARY SCHOOL 仁濟醫院趙曾學韞小學",
-      "sub": "英文 / 音樂 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045391",
-      "cat": "main",
-      "id": "HS26045391",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Clerical Assistant (Full Time)",
-      "s": "ST. CLARE'S PRIMARY SCHOOL 聖嘉勒小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26045511",
-      "cat": "main",
-      "id": "HS26045511",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Assistant Panel Head (Chinese Language) (using Cantonese as the MOI) (2026-2027)",
-      "s": "KOWLOON TRUE LIGHT SCHOOL (PRIMARY SECTION) 九龍真光中學(小學部)",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043971",
-      "cat": "main",
-      "id": "HS26043971",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teacher (Chinese Language) (using Cantonese as the MOI) (2026-2027)",
-      "s": "KOWLOON TRUE LIGHT SCHOOL (PRIMARY SECTION) 九龍真光中學(小學部)",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043972",
-      "cat": "main",
-      "id": "HS26043972",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teacher (Mathematics) (using English as the MOI) (2026-2027)",
-      "s": "KOWLOON TRUE LIGHT SCHOOL (PRIMARY SECTION) 九龍真光中學(小學部)",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043973",
-      "cat": "main",
-      "id": "HS26043973",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teacher (English Language) (2026-2027)",
-      "s": "KOWLOON TRUE LIGHT SCHOOL (PRIMARY SECTION) 九龍真光中學(小學部)",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043974",
-      "cat": "main",
-      "id": "HS26043974",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teacher (Permanent Post)",
-      "s": "ST. FRANCIS OF ASSISI'S ENGLISH PRIMARY SCHOOL 聖方濟各英文小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044021",
-      "cat": "main",
-      "id": "HS26044021",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Mathematics Teacher (Permanent Post)",
-      "s": "ST. FRANCIS OF ASSISI'S ENGLISH PRIMARY SCHOOL 聖方濟各英文小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044022",
-      "cat": "main",
-      "id": "HS26044022",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Physical Teacher (Permanent Post)",
-      "s": "ST. FRANCIS OF ASSISI'S ENGLISH PRIMARY SCHOOL 聖方濟各英文小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044023",
-      "cat": "main",
-      "id": "HS26044023",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約輔導助理",
-      "s": "PO LEUNG KUK TIN KA PING MILLENNIUM PRIMARY SCHOOL 保良局田家炳千禧小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044042",
-      "cat": "main",
-      "id": "HS26044042",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "視覺藝術科或體育科助理小學學位教師 (常額 / 合約)",
-      "s": "LING LIANG CHURCH SAU TAK PRIMARY SCHOOL 靈糧堂秀德小學",
-      "sub": "視藝 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044071",
-      "cat": "main",
-      "id": "HS26044071",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "數學、音樂科、體育科常額 / 合約助理小學學位教師一名",
-      "s": "FUK TAK EDUCATION SOCIETY PRIMARY SCHOOL 福德學社小學",
-      "sub": "數學 / 音樂 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044121",
-      "cat": "main",
-      "id": "HS26044121",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科教師 (2026/2027 年度)",
-      "s": "ST. LOUIS SCHOOL (PRIMARY SECTION) 聖類斯中學(小學部)",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044161",
-      "cat": "main",
-      "id": "HS26044161",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學生支援助理",
-      "s": "PO LEUNG KUK CHONG KEE TING PRIMARY SCHOOL 保良局莊啟程小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044202",
-      "cat": "main",
-      "id": "HS26044202",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約老師 (主修中文 / 英文 / 數學 / 音樂) (2026-2027 年度)",
-      "s": "CHEUNG SHA WAN CATHOLIC PRIMARY SCHOOL 長沙灣天主教小學",
-      "sub": "英文 / 中文 / 數學 / 音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044211",
-      "cat": "main",
-      "id": "HS26044211",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (普教中) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044481",
-      "cat": "main",
-      "id": "HS26044481",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (英文) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044482",
-      "cat": "main",
-      "id": "HS26044482",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (常識 - 人文 / 科學) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044483",
-      "cat": "main",
-      "id": "HS26044483",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (STEAM) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044484",
-      "cat": "main",
-      "id": "HS26044484",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (體育) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044485",
-      "cat": "main",
-      "id": "HS26044485",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (宗教 - 天主教) (2026-2027 學年)",
-      "s": "CANOSSA SCHOOL ( HONG KONG ) 香港嘉諾撒學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044486",
-      "cat": "main",
-      "id": "HS26044486",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約老師 (1/9/2026 - 31/8/2027)",
-      "s": "THE LITTLE FLOWER'S CATHOLIC PRIMARY SCHOOL 天主教聖華學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044671",
-      "cat": "main",
-      "id": "HS26044671",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約 / 常額學校行政主任",
-      "s": "THE LITTLE FLOWER'S CATHOLIC PRIMARY SCHOOL 天主教聖華學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044672",
-      "cat": "main",
-      "id": "HS26044672",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Part-time Native-English Speaking Teacher (PNET) (Contract)",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044691",
-      "cat": "main",
-      "id": "HS26044691",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Native English Speaking Teaching Assistant (NTA)",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044692",
-      "cat": "main",
-      "id": "HS26044692",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Primary / Secondary EAL Teacher (2026-2027)",
-      "s": "ELCHK LUTHERAN ACADEMY 宏信書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044722",
-      "cat": "main",
-      "id": "HS26044722",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Primary Mathematics & Science Specialist Teacher / Teaching Assistant (2026-2027)",
-      "s": "ELCHK LUTHERAN ACADEMY 宏信書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044726",
-      "cat": "main",
-      "id": "HS26044726",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Primary Homeroom Teacher (2026-2027)",
-      "s": "ELCHK LUTHERAN ACADEMY 宏信書院",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044727",
-      "cat": "main",
-      "id": "HS26044727",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中國語文、數學及體育科日薪代課教師 (急聘)",
-      "s": "PUN U ASSOCIATION WAH YAN PRIMARY SCHOOL 番禺會所華仁小學",
-      "sub": "數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26044731",
-      "cat": "main",
-      "id": "HS26044731",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Student Guidance Personnel",
-      "s": "ST. FRANCIS OF ASSISI'S ENGLISH PRIMARY SCHOOL 聖方濟各英文小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042381",
-      "cat": "main",
-      "id": "HS26042381",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科助理小學學位教師 (合約)",
-      "s": "S.K.H. TIN WAN CHI NAM PRIMARY SCHOOL 聖公會田灣始南小學",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043321",
-      "cat": "main",
-      "id": "HS26043321",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "合約教師 GM / APSM (26-27 年度) (學校部)",
-      "s": "CHI YUN SCHOOL 慈恩學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043522",
-      "cat": "main",
-      "id": "HS26043522",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "體育科常額 / 合約教師",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043551",
-      "cat": "main",
-      "id": "HS26043551",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額 / 合約教師",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043552",
-      "cat": "main",
-      "id": "HS26043552",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科 (普教中) 常額 / 合約教師",
-      "s": "KING'S COLLEGE OLD BOYS' ASSOCIATION PRIMARY SCHOOL NO. 2 英皇書院同學會小學第二校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043553",
-      "cat": "main",
-      "id": "HS26043553",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 (2026-2027 年度)",
-      "s": "S.K.H. TSING YI CHU YAN PRIMARY SCHOOL 聖公會青衣主恩小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043561",
-      "cat": "main",
-      "id": "HS26043561",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Language Teaching Assistant (ELTA)",
-      "s": "S.K.H. TSING YI CHU YAN PRIMARY SCHOOL 聖公會青衣主恩小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043563",
-      "cat": "main",
-      "id": "HS26043563",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 APSM 及 合約教師 (2026-2027 年度)",
-      "s": "S.K.H. HO CHAK WAN PRIMARY SCHOOL 聖公會何澤芸小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043571",
-      "cat": "main",
-      "id": "HS26043571",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科常額 / 合約教師",
-      "s": "SKH ST PETER'S PRIMARY SCHOOL 聖公會聖彼得小學",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043661",
-      "cat": "main",
-      "id": "HS26043661",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "副教師 (中文科 / 數學科) (2026-2027 年度)",
-      "s": "LING LIANG CHURCH SAU TAK PRIMARY SCHOOL 靈糧堂秀德小學",
-      "sub": "中文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043701",
-      "cat": "main",
-      "id": "HS26043701",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "高級學位教師 SGM / 小學學位教師 PSM (常額 / 合約) (2026-2027)",
-      "s": "HONG CHI MORNINGHILL SCHOOL, TUEN MUN 匡智屯門晨崗學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043721",
-      "cat": "sp",
-      "id": "HS26043721",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學位教師 GM / 助理小學學位教師 APSM (常額 / 合約) (2026-2027)",
-      "s": "HONG CHI MORNINGHILL SCHOOL, TUEN MUN 匡智屯門晨崗學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043722",
-      "cat": "sp",
-      "id": "HS26043722",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學校長 (2026 年 9 月 1 日到職)",
-      "s": "HONG KONG SHENG KUNG HUI EDUCATION  SERVICES LIMITED 香港聖公會教育服務部",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043061",
-      "cat": "main",
-      "id": "HS26043061",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 (英文科、數學科、視藝科、科學科)",
-      "s": "SHAP PAT HEUNG RURAL COMMITTEE KUNG YIK SHE PRIMARY SCHOOL 十八鄉鄉事委員會公益社小學",
-      "sub": "英文 / 數學 / 視藝 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042681",
-      "cat": "main",
-      "id": "HS26042681",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職小學教師 English Teacher (2026-2027 年度)",
-      "s": "KAU YAN SCHOOL 救恩學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043341",
-      "cat": "main",
-      "id": "HS26043341",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "各科助理小學學位教師 (合約)",
-      "s": "PO LEUNG KUK CHEE JING YIN PRIMARY  SCHOOL 保良局朱正賢小學",
-      "sub": "各科",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042821",
-      "cat": "main",
-      "id": "HS26042821",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 APSM (英文 / 音樂) (2026-2027 年度)",
-      "s": "SHANGHAI ALUMNI PRIMARY SCHOOL 滬江小學",
-      "sub": "英文 / 音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042831",
-      "cat": "main",
-      "id": "HS26042831",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (體育及數學)",
-      "s": "TSUEN WAN CHIU CHOW PUBLIC SCHOOL 荃灣潮州公學",
-      "sub": "數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042841",
-      "cat": "main",
-      "id": "HS26042841",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科 / 數學科教師 (常額 / 合約 APSM) (2026 年 9 月到職)",
-      "s": "S.K.H. KA FUK WING CHUN PRIMARY SCHOOL 聖公會嘉福榮真小學法團校董會",
-      "sub": "中文 / 數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042901",
-      "cat": "main",
-      "id": "HS26042901",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 APSM (英文科 / 中文科，兼教宗教科 / 體育科 / STEAM / 音樂科 / 視藝科) (2026/27 年度)",
-      "s": "SAI KUNG SUNG TSUN CATHOLIC SCHOOL (PRIMARY SECTION) 西貢崇真天主教學校(小學部)",
-      "sub": "英文 / 中文 / 音樂 / 視藝 / 體育 / STEAM/常識",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042911",
-      "cat": "main",
-      "id": "HS26042911",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "數學及體育教師 (常額 / 合約) (2026-2027 年度)",
-      "s": "BAPTIST LUI MING CHOI PRIMARY SCHOOL 浸信會呂明才小學",
-      "sub": "數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042991",
-      "cat": "main",
-      "id": "HS26042991",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "音樂科教師 (能以普通話兼教中文科) (2026-27)",
-      "s": "HKUGA PRIMARY SCHOOL 港大同學會小學",
-      "sub": "中文 / 音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043021",
-      "cat": "main",
-      "id": "HS26043021",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "兼職音樂科教師 (每星期 2 至 3 天教學) (2026-27)",
-      "s": "HKUGA PRIMARY SCHOOL 港大同學會小學",
-      "sub": "音樂",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043022",
-      "cat": "main",
-      "id": "HS26043022",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teaching Assistant (2026-27)",
-      "s": "HKUGA PRIMARY SCHOOL 港大同學會小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043023",
-      "cat": "main",
-      "id": "HS26043023",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中、英、數 (常額 / 合約) 助理小學學位教師 (2026/27 學年)",
-      "s": "HOI PING CHAMBER OF COMMERCE PRIMARY SCHOOL 旅港開平商會學校",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043171",
-      "cat": "main",
-      "id": "HS26043171",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Chinese Contract Teacher (2026/2027)",
-      "s": "MARYMOUNT PRIMARY SCHOOL 瑪利曼小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043181",
-      "cat": "main",
-      "id": "HS26043181",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teaching Assistant / Learning Support Teacher (2026/2027)",
-      "s": "MARYMOUNT PRIMARY SCHOOL 瑪利曼小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043182",
-      "cat": "main",
-      "id": "HS26043182",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中、小學教師 (編制及非編制教席) (2026 年 9 月 1 日到職)",
-      "s": "ROTARY CLUB OF HONG KONG ISLAND WEST HONG CHI MORNINGHOPE SCHOOL 香港西區扶輪社匡智晨輝學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043201",
-      "cat": "sp",
-      "id": "HS26043201",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約教師 (體育、音樂、視藝、學校圖書館主任)",
-      "s": "C C C MONG WONG FAR YOK MEMORIAL PRIMARY SCHOOL 中華基督教會蒙黃花沃紀念小學",
-      "sub": "音樂 / 視藝 / 體育 / 圖書館",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "lib",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043221",
-      "cat": "main",
-      "id": "HS26043221",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職 / 半職 0.5 (界定合約期常額助理小學學位教師) 或 合約教師 (2026-2027 年度)",
-      "s": "YUEN LONG LONG PING ESTATE TUNG KOON PRIMARY SCHOOL 元朗朗屏邨東莞學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043271",
-      "cat": "main",
-      "id": "HS26043271",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學學生輔導教師 SGT (常額) (2026-2027 年度)",
-      "s": "YUEN LONG LONG PING ESTATE TUNG KOON PRIMARY SCHOOL 元朗朗屏邨東莞學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043272",
-      "cat": "main",
-      "id": "HS26043272",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科教師 (小學部) (2026/2027)",
-      "s": "PUI KIU COLLEGE 培僑書院",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043331",
-      "cat": "main",
-      "id": "HS26043331",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Teacher of English",
-      "s": "ST. PAUL'S CO-EDUCATIONAL COLLEGE PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
+      "id": "hk:香港教育大學賽馬會小學各科助理小學學位教師（常額 / 合約）",
+      "src": "hktpost",
+      "area": "大埔區",
+      "fund": "資助",
+      "sources": [
+        "hktpost"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043421",
-      "cat": "main",
-      "id": "HS26043421",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "高級小學學位教師 SPSM",
-      "s": "SIK SIK YUEN 嗇色園",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041791",
-      "cat": "main",
-      "id": "HS26041791",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學學位教師 PSM",
-      "s": "SIK SIK YUEN 嗇色園",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041792",
-      "cat": "main",
-      "id": "HS26041792",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "小學 / 中學學位教師 (心光恩望學校)",
-      "s": "EBENEZER SCHOOL & HOME FOR THE VISUALLY IMPAIRED 心光盲人院暨學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "sp",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042361",
-      "cat": "sp",
-      "id": "HS26042361",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "津小全職體育科教師 (合約) (2026-2027)",
-      "s": "PO KOK PRIMARY SCHOOL 寶覺小學",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042421",
-      "cat": "main",
-      "id": "HS26042421",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "PSM 小學學位教師 (課程範疇)",
-      "s": "ST. FRANCIS OF ASSISI'S CARITAS SCHOOL 聖方濟愛德小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042442",
-      "cat": "main",
-      "id": "HS26042442",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "全職教師 (數學科及體育科)",
-      "s": "PO LEUNG KUK LAM MAN CHAN ENGLISH PRIMARY SCHOOL 保良局林文燦英文小學",
-      "sub": "英文 / 數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26042481",
-      "cat": "main",
-      "id": "HS26042481",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約中文、英文、數學科老師 (能任教體育或音樂者優先考慮)",
-      "s": "BUDDHIST LIM KIM TIAN MEMORIAL SCHOOL 佛教林金殿紀念小學",
-      "sub": "英文 / 中文 / 數學 / 音樂 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041591",
-      "cat": "main",
-      "id": "HS26041591",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額 / 合約助理小學學位教師",
-      "s": "FATHER CUCCHIARA MEMORIAL SCHOOL 郭怡雅神父紀念學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041621",
-      "cat": "main",
-      "id": "HS26041621",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "總務助理 (全職 / 半職 / 兼職) (2026/27 年度)",
-      "s": "LOK WAH CATHOLIC PRIMARY SCHOOL 樂華天主教小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040362",
-      "cat": "main",
-      "id": "HS26040362",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約助理小學學位教師 (英文、數學、體育科優先)",
-      "s": "TUNG WAH GROUP OF HOSPITALS CHOW YIN SUM PRIMARY SCHOOL 東華三院周演森小學",
-      "sub": "英文 / 數學 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040461",
-      "cat": "main",
-      "id": "HS26040461",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文科教師 (常額 APSM)",
-      "s": "CARMEL LEUNG SING TAK SCHOOL 迦密梁省德學校",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040811",
-      "cat": "main",
-      "id": "HS26040811",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科教師 (常額 APSM)",
-      "s": "CARMEL LEUNG SING TAK SCHOOL 迦密梁省德學校",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040812",
-      "cat": "main",
-      "id": "HS26040812",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科常額 / 合約教師",
-      "s": "SKH ST PETER'S PRIMARY SCHOOL 聖公會聖彼得小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040861",
-      "cat": "main",
-      "id": "HS26040861",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (合約 / 常額) (2026-2027 年度)",
-      "s": "FUNG KAI LIU YUN SUM MEMORIAL SCHOOL 鳳溪廖潤琛紀念學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040901",
-      "cat": "main",
-      "id": "HS26040901",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 APSM / 合約教師 CT",
-      "s": "BUDDHIST PO KWONG SCHOOL 香海正覺蓮社佛教普光學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040941",
-      "cat": "main",
-      "id": "HS26040941",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "數學 / 中文 及 音樂 / 體育/ 視藝教師 (全職)",
-      "s": "ALLIANCE PRIMARY SCHOOL TAI HANG TUNG 大坑東宣道小學",
-      "sub": "中文 / 數學 / 音樂 / 視藝 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041061",
-      "cat": "main",
-      "id": "HS26041061",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Contract Native-speaking English Teacher / English and Music Teacher",
-      "s": "ALLIANCE PRIMARY SCHOOL TAI HANG TUNG 大坑東宣道小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041062",
-      "cat": "main",
-      "id": "HS26041062",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中、英、數 助理小學學位教師 (常額 / 合約) (2026/27 學年)",
-      "s": "PO LEUNG KUK HORIZON EAST PRIMARY SCHOOL 保良局志豪小學",
-      "sub": "數學",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041151",
-      "cat": "main",
-      "id": "HS26041151",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師 (常額 / 合約)",
-      "s": "TUNG WAH GROUP OF HOSPITALS MA KAM CHAN MEMORIAL PRIMARY SCHOOL 東華三院馬錦燦紀念小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041191",
-      "cat": "main",
-      "id": "HS26041191",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校部-26-27年度合約教師(GM/APSM)",
-      "s": "CHI YUN SCHOOL 慈恩學校",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040342",
-      "cat": "main",
-      "id": "HS26040342",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "2026-2027 年度合約中文科教師",
-      "s": "PO LEUNG KUK TIN KA PING MILLENNIUM PRIMARY SCHOOL 保良局田家炳千禧小學",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040401",
-      "cat": "main",
-      "id": "HS26040401",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "學校行政主任/助理行政主任",
-      "s": "CCC WANCHAI CHURCH KEI TO PRIMARY SCHOOL 中華基督教會灣仔堂基道小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040421",
-      "cat": "main",
-      "id": "HS26040421",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額助理小學學位教師 (APSM) (體育/英文)",
-      "s": "MUI WO SCHOOL 梅窩學校",
-      "sub": "英文 / 體育",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040471",
-      "cat": "main",
-      "id": "HS26040471",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "2026-2027年度常額助理小學學位教師",
-      "s": "S.K.H. KEI FOOK PRIMARY SCHOOL 聖公會基福小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040561",
-      "cat": "main",
-      "id": "HS26040561",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "英文科主任(署任) / 英文科老師",
-      "s": "TRUE LIGHT MIDDLE SCHOOL ( PRIMARY SECTION )",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040571",
-      "cat": "main",
-      "id": "HS26040571",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "助理小學學位教師(APSM)(常額/合約教師)",
-      "s": "HEEP WOH PRIMARY SCHOOL 中華基督教會協和小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040671",
-      "cat": "main",
-      "id": "HS26040671",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "常額 / 合約中文助理小學學位教師 APSM (普教中) (2026/2027)",
-      "s": "TAI PO OLD MARKET PUBLIC SCHOOL (PLOVER COVE) 大埔舊墟公立學校(寶湖道)",
-      "sub": "中文",
-      "d": "2026-06-08",
-      "tags": [
-        "perm",
-        "contract",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26040801",
-      "cat": "main",
-      "id": "HS26040801",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Graduate Teacher (Sec. Section)",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041291",
-      "cat": "main",
-      "id": "HS26041291",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Mathematics Graduate Teacher (Sec. Section)",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041292",
-      "cat": "main",
-      "id": "HS26041292",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "Physics Graduate Teacher",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041293",
-      "cat": "main",
-      "id": "HS26041293",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "English Teaching Assistant",
-      "s": "ST. MARGARET'S CO - EDUCATIONAL ENGLISH SECONDARY & PRIMARY SCHOOL",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26041294",
-      "cat": "main",
-      "id": "HS26041294",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "School-based Native Speaking English Teacher (NET) / English Language Teaching Assistant (ELTA) (Not under EDB NET Scheme)",
-      "s": "THE CHURCH OF CHRIST IN CHINA KEI WAN PRIMARY SCHOOL 中華基督教會基灣小學",
-      "sub": "英文",
-      "d": "2026-06-08",
-      "tags": [
-        "net",
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26039061",
-      "cat": "main",
-      "id": "HS26039061",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "體育科教師 (2026-2027 年度)",
-      "s": "LING LIANG CHURCH SAU TAK PRIMARY SCHOOL 靈糧堂秀德小學",
-      "sub": "體育",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26039861",
-      "cat": "main",
-      "id": "HS26039861",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "產假代課老師",
-      "s": "PO LEUNG KUK WONG WING SHU PRIMARY SCHOOL 保良局黃永樹小學",
-      "sub": "科目未指定",
-      "d": "2026-06-08",
-      "tags": [
-        "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26039881",
-      "cat": "main",
-      "id": "HS26039881",
       "first_seen": "2026-06-08"
     },
     {
-      "t": "合約 APSM 英文科教師 (2026-2027 學年)",
-      "s": "SHATIN METHODIST PRIMARY SCHOOL 沙田循道衛理小學",
-      "sub": "英文",
-      "d": "2026-06-08",
+      "t": "中文 / 英文科教師（合約）",
+      "s": "保良局田家炳小學",
+      "sub": "中文、英文",
+      "d": "04 Jun 26",
       "tags": [
         "contract",
         "new"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26039921",
-      "cat": "main",
-      "id": "HS26039921",
-      "first_seen": "2026-06-08"
-    },
-    {
-      "t": "中文 / 英文科教師 (合約)",
-      "s": "PO LEUNG KUK TIN KA PING PRIMARY SCHOOL 保良局田家炳小學",
-      "sub": "英文 / 中文",
-      "d": "2026-06-08",
-      "tags": [
-        "contract"
       ],
       "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047091",
       "cat": "main",
       "id": "HS26047091",
-      "first_seen": null
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
     },
     {
       "t": "Native-speaking English Teacher",
-      "s": "APLICHAU KAIFONG PRIMARY SCHOOL 鴨脷洲街坊學校",
-      "sub": "英文",
-      "d": "2026-06-08",
+      "s": "鴨脷洲街坊學校",
+      "sub": "英文（外籍英語教師）",
+      "d": "04 Jun 26",
       "tags": [
-        "net"
+        "net",
+        "new"
       ],
       "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26047681",
       "cat": "main",
       "id": "HS26047681",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 / 學位教師（合約）",
+      "s": "保良局陳麗玲（百周年）學校 · 中度特殊學校",
+      "sub": "可選：IT／科技與生活／體育／音樂／設計與應用科技／視藝／園藝治療",
+      "d": "27 May 26",
+      "tags": [
+        "contract",
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043481",
+      "cat": "sp",
+      "id": "HS26043481",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "英文常額教師（能任教體育或資訊科技優先）",
+      "s": "香港潮陽小學",
+      "sub": "英文 + 體育 / 資訊科技",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030511",
+      "cat": "main",
+      "id": "HS26030511",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "Regular / Contract Teacher（科學／英／中／普／音樂／視藝）",
+      "s": "瑪利曼小學",
+      "sub": "多科：科學、英、中、普通話、音樂、視藝",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030571",
+      "cat": "main",
+      "id": "HS26030571",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 / 合約 助理小學學位教師 APSM",
+      "s": "香港嘉諾撒學校",
+      "sub": "科目未指定（APSM）",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030491",
+      "cat": "main",
+      "id": "HS26030491",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中文、英文及數學科老師",
+      "s": "九龍塘學校（小學部）",
+      "sub": "中文、英文、數學",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030611",
+      "cat": "main",
+      "id": "HS26030611",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "英文科 / 音樂科老師",
+      "s": "中華基督教會基灣小學",
+      "sub": "英文、音樂",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26031051",
+      "cat": "main",
+      "id": "HS26031051",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 APSM — 中文（粵教中）兼教普通話 / 英文 / 體育（常額 / 合約）",
+      "s": "浸信會孔憲紹天虹小學",
+      "sub": "中文（粵教中）+ 普通話 / 英文 / 體育",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030821",
+      "cat": "main",
+      "id": "HS26030821",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學學位教師 PSM（2026/27）",
+      "s": "三水同鄉會禤景榮學校",
+      "sub": "科目未指定（PSM）",
+      "d": "24 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030691",
+      "cat": "main",
+      "id": "HS26030691",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額教師 APSM（2026/27）",
+      "s": "三水同鄉會禤景榮學校",
+      "sub": "科目未指定（APSM）",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030692",
+      "cat": "main",
+      "id": "HS26030692",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 / 合約教師（2026/27）",
+      "s": "宣道會台山陳元喜小學",
+      "sub": "科目未指定",
+      "d": "24 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26031181",
+      "cat": "main",
+      "id": "HS26031181",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學 / 中學學位教師",
+      "s": "心光盲人院暨學校（心光恩望學校）· 視障特殊",
+      "sub": "科目未指定",
+      "d": "24 Apr 26",
+      "tags": [
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030791",
+      "cat": "sp",
+      "id": "HS26030791",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 / 學位教師 APSM / GM（合約 / 常額）",
+      "s": "三水同鄉會劉本章學校",
+      "sub": "科目未指定（APSM / GM）",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029501",
+      "cat": "main",
+      "id": "HS26029501",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中文科老師（2026-27）",
+      "s": "聖若瑟小學",
+      "sub": "中文",
+      "d": "23 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030041",
+      "cat": "main",
+      "id": "HS26030041",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "英文科 助理小學學位教師 APSM（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "英文",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030101",
+      "cat": "main",
+      "id": "HS26030101",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中文（普通話教授）助理小學學位教師 APSM（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "中文（普教中）",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030102",
+      "cat": "main",
+      "id": "HS26030102",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "學校圖書館主任（2026 常額）",
+      "s": "聖博德天主教小學（蒲崗村道）",
+      "sub": "圖書館 / 閱讀推廣",
+      "d": "23 Apr 26",
+      "tags": [
+        "perm",
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26030103",
+      "cat": "main",
+      "id": "HS26030103",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額教師 — 英文科兼教宗教 / 人文 / 科學",
+      "s": "九龍灣聖若翰天主教小學",
+      "sub": "英文 + 宗教 / 人文 / 科學",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029221",
+      "cat": "main",
+      "id": "HS26029221",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "合約教師 — 中（普教中）/ 英 / 數 兼教人文 / 科學 / 電腦 / 宗教 / 音樂",
+      "s": "九龍灣聖若翰天主教小學",
+      "sub": "中（普教中）/ 英 / 數 + 多副科",
+      "d": "22 Apr 26",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029222",
+      "cat": "main",
+      "id": "HS26029222",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中學學位教師 GM / 助理小學學位教師 APSM（全 / 半 / 兼職）（常額 / 合約）",
+      "s": "香港基督教服務處",
+      "sub": "中 / 小學（APSM / GM）",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029271",
+      "cat": "main",
+      "id": "HS26029271",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額小學學位教師 PSM（2026/27）",
+      "s": "獅子會何德心小學",
+      "sub": "科目未指定（PSM）",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029411",
+      "cat": "main",
+      "id": "HS26029411",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "英文科 常額助理小學學位教師 APSM（2026/27）",
+      "s": "獅子會何德心小學",
+      "sub": "英文",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029421",
+      "cat": "main",
+      "id": "HS26029421",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中文 / 英文 / 數學及圖書館教師 — 常額 / 合約 APSM",
+      "s": "光明英來學校",
+      "sub": "中 / 英 / 數 / 圖書館",
+      "d": "22 Apr 26",
+      "tags": [
+        "perm",
+        "contract",
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029511",
+      "cat": "main",
+      "id": "HS26029511",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學學位教師 PSMCD（課程發展）",
+      "s": "嗇色園（主辦小學）",
+      "sub": "科目未指定（課程發展）",
+      "d": "22 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029541",
+      "cat": "main",
+      "id": "HS26029541",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學英文科日薪代課教師 APSM",
+      "s": "路德會啓聾學校 · 聽障特殊",
+      "sub": "英文（代課）",
+      "d": "22 Apr 26",
+      "tags": [
+        "sp"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029261",
+      "cat": "sp",
+      "id": "HS26029261",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "合約 / 常額英文科教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "英文",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028811",
+      "cat": "main",
+      "id": "HS26028811",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "合約 / 常額體育科教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028812",
+      "cat": "main",
+      "id": "HS26028812",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 STEAM 教師（2026/27）",
+      "s": "林村公立黃福鑾紀念學校",
+      "sub": "STEAM",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028813",
+      "cat": "main",
+      "id": "HS26028813",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "各科教師（2026/27）",
+      "s": "聖類斯中學（小學部）",
+      "sub": "各科",
+      "d": "21 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028841",
+      "cat": "main",
+      "id": "HS26028841",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "體育科常額教師",
+      "s": "佛教黃焯菴小學",
+      "sub": "體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028851",
+      "cat": "main",
+      "id": "HS26028851",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中、數、音、體常額教師（2 名）",
+      "s": "中華基督教會協和小學（長沙灣）",
+      "sub": "中文 / 數學 / 音樂 / 體育",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028881",
+      "cat": "main",
+      "id": "HS26028881",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學部教師 — 中 / 英 / 數 / 體（9 月到任）",
+      "s": "漢華中學（小學部）",
+      "sub": "中文 / 英文 / 數學 / 體育",
+      "d": "21 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029002",
+      "cat": "main",
+      "id": "HS26029002",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "各科常額 / 合約教師（2026-27）",
+      "s": "基督教神召會梁省德小學",
+      "sub": "各科",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029101",
+      "cat": "main",
+      "id": "HS26029101",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "NET Teacher（Funding Post 2026-27）",
+      "s": "基督教神召會梁省德小學",
+      "sub": "英文（外籍英語教師）",
+      "d": "21 Apr 26",
+      "tags": [
+        "net"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029102",
+      "cat": "main",
+      "id": "HS26029102",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "小學學位教師（小學課程統籌及發展主任）",
+      "s": "大埔舊墟公立學校",
+      "sub": "課程統籌 / 發展（PSM）",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029171",
+      "cat": "main",
+      "id": "HS26029171",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 APSM — 英文（常額，達英文基準）",
+      "s": "大埔舊墟公立學校",
+      "sub": "英文",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029172",
+      "cat": "main",
+      "id": "HS26029172",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 APSM — 中文（常額，達普通話基準）",
+      "s": "大埔舊墟公立學校",
+      "sub": "中文（普通話）",
+      "d": "21 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26029173",
+      "cat": "main",
+      "id": "HS26029173",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "各科老師 APSM",
+      "s": "寶血會培靈學校",
+      "sub": "各科",
+      "d": "2026-06-08",
+      "tags": [],
+      "u": "https://www.hktpost.com/post?id=150947",
+      "cat": "main",
+      "id": "hk:寶血會培靈學校各科老師 APSM",
+      "src": "hktpost",
+      "area": "北區",
+      "fund": "資助·天主教",
+      "sources": [
+        "hktpost"
+      ],
       "first_seen": null
     },
     {
-      "t": "助理小學學位教師 / 學位教師 (合約) (2026/27 學年)",
-      "s": "PO LEUNG KUK ANITA LL CHAN (CENTENARY) SCHOOL 保良局陳麗玲(百周年)學校",
+      "t": "全職教師（常額 / 合約）（26-27 年度）",
+      "s": "南丫北段公立小學",
+      "sub": "科目未指定",
+      "d": "2026-06-08",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=8e7cb739-230b-408c-99c7-fde80b533a18&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:南丫北段公立小學全職教師（常額 / 合約）（26-27 年度）",
+      "src": "hktpost",
+      "area": "離島區",
+      "fund": "資助",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "常額 / 合約助理小學學位教師（2026/27）",
+      "s": "中華基督教會基慧小學",
+      "sub": "科目未指定",
+      "d": "2026-06-08",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=6ec48584-a449-45b4-b88d-c6887d0fd9bb&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:中華基督教會基慧小學常額 / 合約助理小學學位教師（2026/27）",
+      "src": "hktpost",
+      "area": "荃灣區",
+      "fund": "資助·基督教",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "合約助理小學學位教師（2026 年 9 月到職）",
+      "s": "東華三院羅裕積小學",
       "sub": "科目未指定",
       "d": "2026-06-08",
       "tags": [
         "contract"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26043481",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e7c034c3-d9aa-4ca4-a6b4-09a4309c8597&from=小學各科招聘",
       "cat": "main",
-      "id": "HS26043481",
+      "id": "hk:東華三院羅裕積小學合約助理小學學位教師（2026 年 9 月到職）",
+      "src": "hktpost",
+      "area": "油尖旺區",
+      "fund": "資助",
+      "sources": [
+        "hktpost"
+      ],
       "first_seen": null
+    },
+    {
+      "t": "各科老師（常額 / 合約）（2026-27）",
+      "s": "粉嶺公立學校",
+      "sub": "各科",
+      "d": "2026-06-08",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=38b90b91-a46b-4091-ad9a-ee7a0f4d11da&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:粉嶺公立學校各科老師（常額 / 合約）（2026-27）",
+      "src": "hktpost",
+      "area": "北區",
+      "fund": "資助",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "合約助理小學學位教師",
+      "s": "東華三院馬錦燦紀念小學",
+      "sub": "科目未指定",
+      "d": "2026-06-08",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=ccb6297d-a0e7-4f96-a12d-d9f2cbc121dd&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:東華三院馬錦燦紀念小學合約助理小學學位教師",
+      "src": "hktpost",
+      "area": "北區",
+      "fund": "資助",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "合約教師（特殊教育需要支援）",
+      "s": "五旬節于良發小學",
+      "sub": "科目未指定",
+      "d": "2026-06-08",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/post?id=151077",
+      "cat": "main",
+      "id": "hk:五旬節于良發小學合約教師（特殊教育需要支援）",
+      "src": "hktpost",
+      "area": "北區",
+      "fund": "資助·基督教",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "PSHE Teacher（一條龍中小學）",
+      "s": "香港浸會大學附屬學校王錦輝中小學",
+      "sub": "常識/人文",
+      "d": "2026-06-08",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=547248ac-10ec-4cd8-87e8-08b2cd3cb038&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:香港浸會大學附屬學校王錦輝中小學PSHE Teacher（一條龍中小學）",
+      "src": "hktpost",
+      "area": "沙田區",
+      "fund": "直資·英文",
+      "sources": [
+        "hktpost"
+      ],
+      "first_seen": null
+    },
+    {
+      "t": "助理小學學位教師 APSM",
+      "s": "聖愛德華天主教小學",
+      "sub": "科目未指定（APSM）",
+      "d": "20 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26026991",
+      "cat": "main",
+      "id": "HS26026991",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "英文科常額 / 合約教師",
+      "s": "十八鄉鄉事委員會公益社小學",
+      "sub": "英文",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028501",
+      "cat": "main",
+      "id": "HS26028501",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 / 合約教師（2026/27）",
+      "s": "嘉諾撒培德學校",
+      "sub": "科目未指定",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028511",
+      "cat": "main",
+      "id": "HS26028511",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "各科老師（常額 / 合約）（2026-27）",
+      "s": "樂善堂劉德學校",
+      "sub": "各科",
+      "d": "20 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028641",
+      "cat": "main",
+      "id": "HS26028641",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "合約助理小學學位教師 APSM（2026-27）",
+      "s": "佛教榮茵學校",
+      "sub": "科目未指定（APSM）",
+      "d": "18 Apr 26",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027941",
+      "cat": "main",
+      "id": "HS26027941",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 / 合約 中 / 英 / 數教師（能兼教音樂、體育者優先）",
+      "s": "上水惠州公立學校",
+      "sub": "中 / 英 / 數 + 音樂 / 體育",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028371",
+      "cat": "main",
+      "id": "HS26028371",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "中 / 英 / 數科教師（常額 / 合約）",
+      "s": "保良局田家炳小學（另一招聘）",
+      "sub": "中 / 英 / 數",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028381",
+      "cat": "main",
+      "id": "HS26028381",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "常額 / 合約教師（中、英、數）（2026-27）",
+      "s": "元朗公立中學校友會小學",
+      "sub": "中 / 英 / 數",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028391",
+      "cat": "main",
+      "id": "HS26028391",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 APSM（各科）（2026-27）",
+      "s": "嶺南大學香港同學會小學",
+      "sub": "各科（APSM）",
+      "d": "18 Apr 26",
+      "tags": [],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028521",
+      "cat": "main",
+      "id": "HS26028521",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "視藝及中文科教師（常額 / 合約）（2026-27）",
+      "s": "沙田公立學校",
+      "sub": "視藝 / 中文",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26028531",
+      "cat": "main",
+      "id": "HS26028531",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "Teacher Librarian（一條龍中小學，設小學部）",
+      "s": "香港浸會大學附屬學校王錦輝中小學",
+      "sub": "圖書館 / 閱讀",
+      "d": "18 Apr 26",
+      "tags": [
+        "lib"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027891",
+      "cat": "main",
+      "id": "HS26027891",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
+    },
+    {
+      "t": "Head of Student Support PSM（一條龍中小學，設小學部）",
+      "s": "香港浸會大學附屬學校王錦輝中小學",
+      "sub": "學生支援（PSM 職級）",
+      "d": "18 Apr 26",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26027881",
+      "cat": "main",
+      "id": "HS26027881",
+      "first_seen": null,
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "sources": [
+        "mingpao"
+      ]
     }
-  ]
+  ],
+  "sources": {
+    "mingpao": "https://jump.mingpao.com/job/search?JobAreaID[]=10-0",
+    "hktpost": "https://www.hktpost.com/search/?level=小學&subject=各科"
+  },
+  "by_source": {
+    "mingpao": 50,
+    "hktpost": 10
+  }
 }
