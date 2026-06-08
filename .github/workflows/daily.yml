@@ -1,0 +1,50 @@
+name: Daily Primary Jobs Update
+
+on:
+  schedule:
+    # 每日 UTC 23:00 = 香港時間 07:00（早上更新，啱晒返工前睇）
+    - cron: "0 23 * * *"
+  workflow_dispatch:            # 容許喺 Actions 頁面手動觸發
+
+permissions:
+  contents: write               # 容許 workflow commit 回 repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      # （可選）有新 job 就發 WhatsApp / webhook 通知
+      # 要啟用：喺 repo Settings → Secrets 加 WHATSAPP_API_URL 同 WHATSAPP_TO，
+      # 再移除下面兩行嘅井號註解。
+      # - name: Notify new jobs
+      #   env:
+      #     WHATSAPP_API_URL: ${{ secrets.WHATSAPP_API_URL }}
+      #     WHATSAPP_TO: ${{ secrets.WHATSAPP_TO }}
+      #   run: python notify.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "primary-jobs-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain jobs.json)" ]; then
+            git add jobs.json
+            git commit -m "chore: daily jobs update $(date -u +%Y-%m-%d)"
+            git push
+            echo "jobs.json 已更新並推送。"
+          else
+            echo "今日無變動，唔使 commit。"
+          fi
