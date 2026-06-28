@@ -1,51 +1,31 @@
 {
-  "updated": "2026-06-27T00:33:19+00:00",
+  "updated": "2026-06-28T00:29:17+00:00",
   "sources": {
     "mingpao": "https://jump.mingpao.com/job/search?JobAreaID[]=10-0",
     "hktpost": "https://www.hktpost.com/search/?level=小學&subject=各科"
   },
   "count": 869,
-  "new_count": 37,
+  "new_count": 29,
   "by_source": {
     "mingpao": 0,
     "hktpost": 869
   },
   "jobs": [
     {
-      "t": "各科老師 APSM",
-      "s": "",
-      "sub": "各科",
-      "d": "2026-06-27",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/post?id=150947",
-      "cat": "main",
-      "id": "hk:各科老師APSM",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "合約助理小學學位教師 (2026-2027 年度)",
+      "t": "小學學位教師 PSM (2026/27 年度)",
       "s": "",
       "sub": "科目未指定",
       "d": "2026-06-27",
       "tags": [
-        "contract",
         "new"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=bdb26254-0f8f-44a6-8eb9-0a8885090410&from=小學各科招聘",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e5f88894-35c3-479b-89bf-ce82b8b5d6d9&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:合約助理小學學位教師(2026-2027年度)",
+      "id": "hk:小學學位教師PSM(2026/27年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
-      "first_seen": "2026-06-27",
+      "first_seen": null,
       "sources": [
         "hktpost"
       ]
@@ -337,26 +317,6 @@
       ]
     },
     {
-      "t": "合約助理小學學位教師 (音樂科) (2026/2027)",
-      "s": "",
-      "sub": "音樂",
-      "d": "2026-06-27",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e3392e71-ed18-4f9d-9ecb-bb48615d8d08&from=小學音樂招聘",
-      "cat": "main",
-      "id": "hk:合約助理小學學位教師(音樂科)(2026/2027)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
       "t": "2025/26 年度常額助理小學學位教師 1 名",
       "s": "",
       "sub": "科目未指定",
@@ -396,131 +356,16 @@
       ]
     },
     {
-      "t": "小學部 小學部中文科教師",
+      "t": "各科老師 APSM",
       "s": "",
-      "sub": "中文",
-      "d": "2026-06-26",
+      "sub": "各科",
+      "d": "2026-06-25",
       "tags": [
         "new"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=371b04b5-bf75-4812-a8e9-b0ab3a751df7&from=小學中文招聘",
+      "u": "https://www.hktpost.com/post?id=150947",
       "cat": "main",
-      "id": "hk:小學部小學部中文科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "小學部 中文科教師",
-      "s": "",
-      "sub": "中文",
-      "d": "2026-06-26",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=a4cbe326-fd22-43cf-95e8-8a77c320b59a&from=小學中文招聘",
-      "cat": "main",
-      "id": "hk:小學部中文科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "小學部 小學部英文科教師",
-      "s": "",
-      "sub": "英文",
-      "d": "2026-06-26",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=31e5d659-25de-4814-8dd5-6754d3c770a8&from=小學英文招聘",
-      "cat": "main",
-      "id": "hk:小學部小學部英文科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "小學部 小學部數學科教師",
-      "s": "",
-      "sub": "數學",
-      "d": "2026-06-26",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=7ba1f436-c1e6-41fb-a84c-ef4fde4f9e01&from=小學數學招聘",
-      "cat": "main",
-      "id": "hk:小學部小學部數學科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "小學部 數學科教師",
-      "s": "",
-      "sub": "數學",
-      "d": "2026-06-26",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=48cc5818-fbc0-404e-bb66-9f26aa04d951&from=小學數學招聘",
-      "cat": "main",
-      "id": "hk:小學部數學科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "小學部 小學部體育科教師",
-      "s": "",
-      "sub": "體育",
-      "d": "2026-06-26",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=cd1a3c73-44ab-4598-9f30-ef6fab58b9d4&from=小學體育招聘",
-      "cat": "main",
-      "id": "hk:小學部小學部體育科教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": "2026-06-27",
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "合約助理小學學位教師 APSM",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-15",
-      "tags": [
-        "contract",
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=228944bc-ea97-4e0e-b8f8-943020f6bf0d&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:合約助理小學學位教師APSM",
+      "id": "hk:各科老師APSM",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -530,16 +375,17 @@
       ]
     },
     {
-      "t": "助理小學學位教師 (主題科) (2026/27 學年)",
+      "t": "合約助理小學學位教師 APSM",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-13",
+      "d": "2026-06-14",
       "tags": [
+        "contract",
         "new"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=eafebba9-f4bf-480b-8d77-ccb3d78afd10&from=小學各科招聘",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=228944bc-ea97-4e0e-b8f8-943020f6bf0d&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:助理小學學位教師(主題科)(2026/27學年)",
+      "id": "hk:合約助理小學學位教師APSM",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -663,10 +509,29 @@
       ]
     },
     {
+      "t": "助理小學學位教師 (主題科) (2026/27 學年)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-12",
+      "tags": [
+        "new"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=eafebba9-f4bf-480b-8d77-ccb3d78afd10&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:助理小學學位教師(主題科)(2026/27學年)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "助理小學學位教師 APSM",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-04",
+      "d": "2026-06-03",
       "tags": [
         "new"
       ],
@@ -685,7 +550,7 @@
       "t": "助理小學學位教師 (2025-2026)合約",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-03",
+      "d": "2026-06-02",
       "tags": [
         "contract",
         "new"
@@ -705,7 +570,7 @@
       "t": "各科合約 / 常額助理小學學位教師 (2026/2027 年度)",
       "s": "",
       "sub": "各科",
-      "d": "2026-05-30",
+      "d": "2026-05-29",
       "tags": [
         "perm",
         "contract",
@@ -723,36 +588,18 @@
       ]
     },
     {
-      "t": "小學學位教師 PSM (2026/27 年度)",
+      "t": "常額 / 合約助理小學學位教師 (中 / 英 / 數) 或特殊教育支援老師 (SENST)",
       "s": "",
-      "sub": "科目未指定",
-      "d": "2026-05-29",
-      "tags": [
-        "new"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e5f88894-35c3-479b-89bf-ce82b8b5d6d9&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:小學學位教師PSM(2026/27年度)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "全職 / 半職 0.5 (界定合約期常額助理小學學位教師) 或 合約教師 (2026-2027 年度)",
-      "s": "",
-      "sub": "科目未指定",
+      "sub": "數學",
       "d": "2026-06-27",
       "tags": [
         "perm",
-        "contract"
+        "contract",
+        "sp"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=2d688d8c-ed80-4379-ad38-71045442ed18&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:全職/半職0.5(界定合約期常額助理小學學位教師)或合約教師(2026-2027年度)",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=352ac0ed-3034-413c-b565-4d62685f378d&from=小學各科招聘",
+      "cat": "sp",
+      "id": "hk:常額/合約助理小學學位教師(中/英/數)或特殊教育支援老師(SENST)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -2961,6 +2808,44 @@
       ]
     },
     {
+      "t": "合約 APSM 教師 (中文 / 英文 / 數學科) (2026-2027 學年)",
+      "s": "",
+      "sub": "英文 / 中文 / 數學",
+      "d": "2026-06-27",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=f22fc9f4-6a4e-45cc-8426-5208e91c49b1&from=小學中文招聘",
+      "cat": "main",
+      "id": "hk:合約APSM教師(中文/英文/數學科)(2026-2027學年)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "常額教師 APSM (中文科) (2026/27 年度)",
+      "s": "",
+      "sub": "中文",
+      "d": "2026-06-27",
+      "tags": [
+        "perm"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e3bf4d22-01f4-41e3-9c7b-2976c328a07a&from=小學中文招聘",
+      "cat": "main",
+      "id": "hk:常額教師APSM(中文科)(2026/27年度)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "常額 / 合約助理小學學位教師 APSM (普教中) (2026-2027 學年)",
       "s": "",
       "sub": "中文",
@@ -5015,6 +4900,26 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=2b21d341-2b64-4dea-9937-88450be31d77&from=小學英文招聘",
       "cat": "main",
       "id": "hk:小學英語音樂劇導演",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "常額助理小學學位教師 / 合約教師 (英文 / 體育 / 音樂優先考慮) (26/27 年度)",
+      "s": "",
+      "sub": "英文 / 音樂 / 體育",
+      "d": "2026-06-27",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=dcea0b47-da76-4d8a-9eea-3e5540e4a244&from=小學英文招聘",
+      "cat": "main",
+      "id": "hk:常額助理小學學位教師/合約教師(英文/體育/音樂優先考慮)(26/27年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -9330,6 +9235,25 @@
       ]
     },
     {
+      "t": "合約助理小學學位教師 (音樂科) (2026/2027)",
+      "s": "",
+      "sub": "音樂",
+      "d": "2026-06-27",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e3392e71-ed18-4f9d-9ecb-bb48615d8d08&from=小學音樂招聘",
+      "cat": "main",
+      "id": "hk:合約助理小學學位教師(音樂科)(2026/2027)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "助理小學學位教師(APSM)(常額/合約教師)",
       "s": "",
       "sub": "科目未指定",
@@ -11148,6 +11072,25 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=9aabebe7-2ad7-40bb-a96a-36f074a63427&from=小學ICT招聘",
       "cat": "main",
       "id": "hk:常額/合約助理小學學位教師(APSM)(任教科目：數學、電腦、音樂)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "合約月薪臨時代課教師 APSM (代產假)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-27",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/post?id=156627",
+      "cat": "main",
+      "id": "hk:合約月薪臨時代課教師APSM(代產假)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14040,6 +13983,62 @@
       ]
     },
     {
+      "t": "全職 / 半職 0.5 (界定合約期常額助理小學學位教師) 或 合約教師 (2026-2027 年度)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-26",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=2d688d8c-ed80-4379-ad38-71045442ed18&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:全職/半職0.5(界定合約期常額助理小學學位教師)或合約教師(2026-2027年度)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "合約助理小學學位教師 (2026-2027 年度)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-26",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=bdb26254-0f8f-44a6-8eb9-0a8885090410&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:合約助理小學學位教師(2026-2027年度)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "小學部 小學部中文科教師",
+      "s": "",
+      "sub": "中文",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=371b04b5-bf75-4812-a8e9-b0ab3a751df7&from=小學中文招聘",
+      "cat": "main",
+      "id": "hk:小學部小學部中文科教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "中文臨時助理小學學位教師",
       "s": "",
       "sub": "中文",
@@ -14057,6 +14056,23 @@
       ]
     },
     {
+      "t": "小學部 中文科教師",
+      "s": "",
+      "sub": "中文",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=a4cbe326-fd22-43cf-95e8-8a77c320b59a&from=小學中文招聘",
+      "cat": "main",
+      "id": "hk:小學部中文科教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "漢華中學（小學部）",
       "s": "",
       "sub": "科目未指定",
@@ -14065,6 +14081,23 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=a4cbe326-fd22-43cf-95e8-8a77c320b59a&from=小學中文招聘",
       "cat": "main",
       "id": "hk:漢華中學（小學部）",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "小學部 小學部英文科教師",
+      "s": "",
+      "sub": "英文",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=31e5d659-25de-4814-8dd5-6754d3c770a8&from=小學英文招聘",
+      "cat": "main",
+      "id": "hk:小學部小學部英文科教師",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14125,6 +14158,23 @@
       ]
     },
     {
+      "t": "小學部 小學部數學科教師",
+      "s": "",
+      "sub": "數學",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=7ba1f436-c1e6-41fb-a84c-ef4fde4f9e01&from=小學數學招聘",
+      "cat": "main",
+      "id": "hk:小學部小學部數學科教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "數學臨時助理小學學位教師",
       "s": "",
       "sub": "數學",
@@ -14133,6 +14183,23 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=090fc677-e966-4719-b6ed-215ecdbd9a75&from=小學數學招聘",
       "cat": "main",
       "id": "hk:數學臨時助理小學學位教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "小學部 數學科教師",
+      "s": "",
+      "sub": "數學",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=48cc5818-fbc0-404e-bb66-9f26aa04d951&from=小學數學招聘",
+      "cat": "main",
+      "id": "hk:小學部數學科教師",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14176,6 +14243,23 @@
       ]
     },
     {
+      "t": "小學部 小學部體育科教師",
+      "s": "",
+      "sub": "體育",
+      "d": "2026-06-26",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=cd1a3c73-44ab-4598-9f30-ef6fab58b9d4&from=小學體育招聘",
+      "cat": "main",
+      "id": "hk:小學部小學部體育科教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "小學部 體育科教師",
       "s": "",
       "sub": "體育",
@@ -14201,26 +14285,6 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=8f76aebb-7a31-4218-a73f-6ad172ecdc0d&from=小學ICT招聘",
       "cat": "main",
       "id": "hk:電腦臨時助理小學學位教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "常額或合約助理小學學位教師",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-25",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e9758885-60b2-4095-9bf7-eedab32d797e&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:常額或合約助理小學學位教師",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14303,16 +14367,17 @@
       ]
     },
     {
-      "t": "合約助理小學學位教師 (2026-2027 學年)",
+      "t": "常額或合約助理小學學位教師",
       "s": "",
       "sub": "科目未指定",
       "d": "2026-06-24",
       "tags": [
+        "perm",
         "contract"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=8c6a05ce-1eae-4cc9-8dfb-3bc96259e09c&from=小學各科招聘",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e9758885-60b2-4095-9bf7-eedab32d797e&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:合約助理小學學位教師(2026-2027學年)",
+      "id": "hk:常額或合約助理小學學位教師",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14417,16 +14482,16 @@
       ]
     },
     {
-      "t": "合約月薪臨時代課教師 APSM (代產假)",
+      "t": "合約助理小學學位教師 (2026-2027 學年)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-24",
+      "d": "2026-06-23",
       "tags": [
         "contract"
       ],
-      "u": "https://www.hktpost.com/post?id=156627",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=8c6a05ce-1eae-4cc9-8dfb-3bc96259e09c&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:合約月薪臨時代課教師APSM(代產假)",
+      "id": "hk:合約助理小學學位教師(2026-2027學年)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14524,26 +14589,6 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=dd4e9b3d-298a-4a0a-a5d4-1dcb005541ba&from=小學科學招聘",
       "cat": "main",
       "id": "hk:GeneralStudies/PrimaryScience/PrimaryHumanitiesTeacher",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "常額 / 合約教師 APSM (數、體) (2026/27 年度)",
-      "s": "",
-      "sub": "數學",
-      "d": "2026-06-18",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=7d8c3502-788e-4a48-a0ed-b6133dafcbfc&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:常額/合約教師APSM(數、體)(2026/27年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14687,6 +14732,26 @@
       ]
     },
     {
+      "t": "常額 / 合約教師 APSM (數、體) (2026/27 年度)",
+      "s": "",
+      "sub": "數學",
+      "d": "2026-06-17",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=7d8c3502-788e-4a48-a0ed-b6133dafcbfc&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:常額/合約教師APSM(數、體)(2026/27年度)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "Native-speaking English Teacher (Contract Outside EDB NET / APSM) or Non-native English Speaking Teacher (Part-time / Full-time)",
       "s": "",
       "sub": "英文",
@@ -14800,23 +14865,6 @@
       ]
     },
     {
-      "t": "APSM Teacher (ENG)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-16",
-      "tags": [],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=a16fe46b-ef1d-4d56-8e0e-ff57c089e551&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:APSMTeacher(ENG)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
       "t": "助理小學學位教師 (APSM)-中文教師 (常額 / 合約)",
       "s": "",
       "sub": "中文",
@@ -14867,6 +14915,23 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=0bd0c18f-c7af-49b2-b412-4ba5abfdd133&from=小學音樂招聘",
       "cat": "main",
       "id": "hk:2026/27年度常額助理小學學位教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "APSM Teacher (ENG)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-15",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=a16fe46b-ef1d-4d56-8e0e-ff57c089e551&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:APSMTeacher(ENG)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -14952,26 +15017,6 @@
       ]
     },
     {
-      "t": "常額/合約教師(APSM)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-12",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=6394121d-972c-4ffa-b249-47e9eae22861&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:常額/合約教師(APSM)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
       "t": "Substitute Teacher (Chinese, Putonghua & Primary Humanities) (Maternity Leave) (Sep 2026 to Nov 2026)",
       "s": "",
       "sub": "科目未指定",
@@ -14989,10 +15034,30 @@
       ]
     },
     {
-      "t": "教師 (常額 / 合約) APSM (2026 年 9 月 1 日到職)",
+      "t": "常額/合約教師(APSM)",
       "s": "",
       "sub": "科目未指定",
       "d": "2026-06-11",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=6394121d-972c-4ffa-b249-47e9eae22861&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:常額/合約教師(APSM)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "教師 (常額 / 合約) APSM (2026 年 9 月 1 日到職)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-10",
       "tags": [
         "perm",
         "contract"
@@ -15019,25 +15084,6 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=8b81d871-7353-4473-a435-65a2e7821398&from=小學英文招聘",
       "cat": "main",
       "id": "hk:常額助理小學學位教師(英文科)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "助理小學學位教師 (合約) (2026-2027學年)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-09",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=f8c45810-8014-4b1a-964f-60befb02ce0b&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:助理小學學位教師(合約)(2026-2027學年)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -15218,17 +15264,16 @@
       ]
     },
     {
-      "t": "各科助理小學學位教師 (常額 / 合約)",
+      "t": "助理小學學位教師 (合約) (2026-2027學年)",
       "s": "",
-      "sub": "各科",
+      "sub": "科目未指定",
       "d": "2026-06-08",
       "tags": [
-        "perm",
         "contract"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e564e8d2-0a99-4cb0-9486-bfebab1bee86&from=小學各科招聘",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=f8c45810-8014-4b1a-964f-60befb02ce0b&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:各科助理小學學位教師(常額/合約)",
+      "id": "hk:助理小學學位教師(合約)(2026-2027學年)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -15278,10 +15323,30 @@
       ]
     },
     {
+      "t": "各科助理小學學位教師 (常額 / 合約)",
+      "s": "",
+      "sub": "各科",
+      "d": "2026-06-07",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e564e8d2-0a99-4cb0-9486-bfebab1bee86&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:各科助理小學學位教師(常額/合約)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "常額 / 合約助理小學學位教師 (2026/27 學年)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-06",
+      "d": "2026-06-05",
       "tags": [
         "perm",
         "contract"
@@ -15301,7 +15366,7 @@
       "t": "合約助理小學學位教師 (2026 年 9 月到職)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-06",
+      "d": "2026-06-05",
       "tags": [
         "contract"
       ],
@@ -15320,7 +15385,7 @@
       "t": "合約助理小學學位教師",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-06",
+      "d": "2026-06-05",
       "tags": [
         "contract"
       ],
@@ -15339,32 +15404,13 @@
       "t": "助理小學學位教師 APSM / 合約老師",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-06-06",
+      "d": "2026-06-05",
       "tags": [
         "contract"
       ],
       "u": "https://www.hktpost.com/safe_redirect?uuid=ba29a1fc-c235-42d7-ae01-f5d3898899ab&from=小學各科招聘",
       "cat": "main",
       "id": "hk:助理小學學位教師APSM/合約老師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "助理小學學位教師 (合約) (2026-2027 年度)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-05",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=89f90c64-9f26-4d8a-bc3e-e5fa49329066&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:助理小學學位教師(合約)(2026-2027年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -15464,6 +15510,25 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=8022a0ac-bfb3-47a0-8411-465360020277&from=小學音樂招聘",
       "cat": "main",
       "id": "hk:常額/合約音樂科助理小學學位教師",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 (合約) (2026-2027 年度)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-04",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=89f90c64-9f26-4d8a-bc3e-e5fa49329066&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:助理小學學位教師(合約)(2026-2027年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -15619,43 +15684,6 @@
       ]
     },
     {
-      "t": "助理小學學位教師",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-06-03",
-      "tags": [],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=6e482552-3d67-408a-a72c-dacf5f6d39b3&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:助理小學學位教師",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "各科助理小學學位教師 (常額 / 合約) (2026-27 年度)",
-      "s": "",
-      "sub": "各科",
-      "d": "2026-06-03",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=b9436c48-bdf6-4130-beae-dce8ea4260b3&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:各科助理小學學位教師(常額/合約)(2026-27年度)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
       "t": "常額 / 合約助理小學學位教師 (中文 / 英文 / 數學) (26-27 年度)",
       "s": "",
       "sub": "英文 / 中文 / 數學",
@@ -15756,17 +15784,14 @@
       ]
     },
     {
-      "t": "助理小學學位教師 (常額 / 合約)",
+      "t": "助理小學學位教師",
       "s": "",
       "sub": "科目未指定",
       "d": "2026-06-02",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e4ac9c8d-035c-47a5-8ff3-dd4289ad26a6&from=小學各科招聘",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=6e482552-3d67-408a-a72c-dacf5f6d39b3&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:助理小學學位教師(常額/合約)",
+      "id": "hk:助理小學學位教師",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -15776,17 +15801,17 @@
       ]
     },
     {
-      "t": "助理小學學位教師 (常額 / 合約) (26/27 學年)",
+      "t": "各科助理小學學位教師 (常額 / 合約) (2026-27 年度)",
       "s": "",
-      "sub": "科目未指定",
+      "sub": "各科",
       "d": "2026-06-02",
       "tags": [
         "perm",
         "contract"
       ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=7e06412f-bf16-450a-be80-628e57515040&from=小學各科招聘",
+      "u": "https://www.hktpost.com/safe_redirect?uuid=b9436c48-bdf6-4130-beae-dce8ea4260b3&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:助理小學學位教師(常額/合約)(26/27學年)",
+      "id": "hk:各科助理小學學位教師(常額/合約)(2026-27年度)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -16060,6 +16085,46 @@
       ]
     },
     {
+      "t": "助理小學學位教師 (常額 / 合約)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-01",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=e4ac9c8d-035c-47a5-8ff3-dd4289ad26a6&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:助理小學學位教師(常額/合約)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
+      "t": "助理小學學位教師 (常額 / 合約) (26/27 學年)",
+      "s": "",
+      "sub": "科目未指定",
+      "d": "2026-06-01",
+      "tags": [
+        "perm",
+        "contract"
+      ],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=7e06412f-bf16-450a-be80-628e57515040&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:助理小學學位教師(常額/合約)(26/27學年)",
+      "src": "hktpost",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "hktpost"
+      ]
+    },
+    {
       "t": "合約英文教師 APSM",
       "s": "",
       "sub": "英文",
@@ -16090,40 +16155,6 @@
       "u": "https://www.hktpost.com/safe_redirect?uuid=41fff45b-84b5-40bf-91e8-0bbdac50f331&from=小學英文招聘",
       "cat": "main",
       "id": "hk:常額/合約助理小學學位APSM教師(英文科)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "Part-time APSM Teachers (ENG / VA) (Effective From 1 Sept 2026)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-05-30",
-      "tags": [],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=ca4dc0bc-64fa-48b7-aca7-d3ee2323783b&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:Part-timeAPSMTeachers(ENG/VA)(EffectiveFrom1Sept2026)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "APSM Teacher (ENG & VA) (Effective From 1 Sept 2026)",
-      "s": "",
-      "sub": "科目未指定",
-      "d": "2026-05-30",
-      "tags": [],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=f6971081-e9d4-4515-bd25-69755e0c1f60&from=小學各科招聘",
-      "cat": "main",
-      "id": "hk:APSMTeacher(ENG&VA)(EffectiveFrom1Sept2026)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -16207,18 +16238,14 @@
       ]
     },
     {
-      "t": "常額 / 合約助理小學學位教師 (中 / 英 / 數) 或特殊教育支援老師 (SENST)",
+      "t": "Part-time APSM Teachers (ENG / VA) (Effective From 1 Sept 2026)",
       "s": "",
-      "sub": "數學",
+      "sub": "科目未指定",
       "d": "2026-05-29",
-      "tags": [
-        "perm",
-        "contract",
-        "sp"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=352ac0ed-3034-413c-b565-4d62685f378d&from=小學各科招聘",
-      "cat": "sp",
-      "id": "hk:常額/合約助理小學學位教師(中/英/數)或特殊教育支援老師(SENST)",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=ca4dc0bc-64fa-48b7-aca7-d3ee2323783b&from=小學各科招聘",
+      "cat": "main",
+      "id": "hk:Part-timeAPSMTeachers(ENG/VA)(EffectiveFrom1Sept2026)",
       "src": "hktpost",
       "area": "",
       "fund": "",
@@ -16228,55 +16255,14 @@
       ]
     },
     {
-      "t": "合約 APSM 教師 (中文 / 英文 / 數學科) (2026-2027 學年)",
+      "t": "APSM Teacher (ENG & VA) (Effective From 1 Sept 2026)",
       "s": "",
-      "sub": "英文 / 中文 / 數學",
+      "sub": "科目未指定",
       "d": "2026-05-29",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=f22fc9f4-6a4e-45cc-8426-5208e91c49b1&from=小學中文招聘",
+      "tags": [],
+      "u": "https://www.hktpost.com/safe_redirect?uuid=f6971081-e9d4-4515-bd25-69755e0c1f60&from=小學各科招聘",
       "cat": "main",
-      "id": "hk:合約APSM教師(中文/英文/數學科)(2026-2027學年)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "常額教師 APSM (中文科) (2026/27 年度)",
-      "s": "",
-      "sub": "中文",
-      "d": "2026-05-29",
-      "tags": [
-        "perm"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=e3bf4d22-01f4-41e3-9c7b-2976c328a07a&from=小學中文招聘",
-      "cat": "main",
-      "id": "hk:常額教師APSM(中文科)(2026/27年度)",
-      "src": "hktpost",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "hktpost"
-      ]
-    },
-    {
-      "t": "常額助理小學學位教師 / 合約教師 (英文 / 體育 / 音樂優先考慮) (26/27 年度)",
-      "s": "",
-      "sub": "英文 / 音樂 / 體育",
-      "d": "2026-05-29",
-      "tags": [
-        "perm",
-        "contract"
-      ],
-      "u": "https://www.hktpost.com/safe_redirect?uuid=dcea0b47-da76-4d8a-9eea-3e5540e4a244&from=小學英文招聘",
-      "cat": "main",
-      "id": "hk:常額助理小學學位教師/合約教師(英文/體育/音樂優先考慮)(26/27年度)",
+      "id": "hk:APSMTeacher(ENG&VA)(EffectiveFrom1Sept2026)",
       "src": "hktpost",
       "area": "",
       "fund": "",
