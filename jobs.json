@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-07T02:14:40+00:00",
+  "updated": "2026-08-08T00:03:17+00:00",
   "sources": {
     "mingpao": "https://jump.mingpao.com/job/search?JobAreaID[]=10-0",
     "hktpost": "https://www.hktpost.com/search/?level=小學&subject=各科"
   },
-  "count": 1002,
+  "count": 997,
   "new_count": 30,
   "by_source": {
-    "mingpao": 128,
+    "mingpao": 123,
     "hktpost": 874
   },
   "jobs": [
     {
-      "t": "學校行政主任 (合約) (2026-2027 年度)",
-      "s": "SHEK LEI ST. JOHN'S CATHOLIC PRIMARY SCHOOL 石籬聖若望天主教小學",
+      "t": "合約學校行政主任",
+      "s": "LUNG KONG WORLD FEDERATION SCHOOL LTD WONG YIU NAM PRIMARY SCHOOL 世界龍岡學校黃耀南小學",
       "sub": "科目未指定",
       "d": "2026-08-07",
       "tags": [
         "contract",
         "new"
       ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26073391",
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26074011",
       "cat": "main",
-      "id": "HS26073391",
+      "id": "HS26074011",
       "src": "mingpao",
       "area": "",
       "fund": "",
@@ -46,7 +46,7 @@
       "src": "mingpao",
       "area": "",
       "fund": "",
-      "first_seen": "2026-08-07",
+      "first_seen": null,
       "sources": [
         "mingpao"
       ]
@@ -459,7 +459,7 @@
       "t": "助理小學學位教師 (中文科) (2026/27 學年)",
       "s": "",
       "sub": "中文",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -478,7 +478,7 @@
       "t": "助理小學學位教師 (英文科) (2026/27 學年)",
       "s": "",
       "sub": "英文",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -497,7 +497,7 @@
       "t": "助理小學學位教師 (數學科) (2026/27 學年)",
       "s": "",
       "sub": "數學",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -516,7 +516,7 @@
       "t": "助理小學學位教師 (視藝科) (2026/27 學年)",
       "s": "",
       "sub": "視藝",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -535,7 +535,7 @@
       "t": "助理小學學位教師 (音樂科) (2026/27 學年)",
       "s": "",
       "sub": "音樂",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -554,7 +554,7 @@
       "t": "助理小學學位教師 (體育科) (2026/27 學年)",
       "s": "",
       "sub": "體育",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "new"
       ],
@@ -573,7 +573,7 @@
       "t": "助理小學學位教師 APSM",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-18",
+      "d": "2026-07-17",
       "tags": [
         "new"
       ],
@@ -592,7 +592,7 @@
       "t": "各科老師 APSM",
       "s": "",
       "sub": "各科",
-      "d": "2026-06-26",
+      "d": "2026-06-25",
       "tags": [
         "new"
       ],
@@ -605,6 +605,25 @@
       "first_seen": null,
       "sources": [
         "hktpost"
+      ]
+    },
+    {
+      "t": "學校行政主任 (合約) (2026-2027 年度)",
+      "s": "SHEK LEI ST. JOHN'S CATHOLIC PRIMARY SCHOOL 石籬聖若望天主教小學",
+      "sub": "科目未指定",
+      "d": "2026-08-07",
+      "tags": [
+        "contract"
+      ],
+      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26073391",
+      "cat": "main",
+      "id": "HS26073391",
+      "src": "mingpao",
+      "area": "",
+      "fund": "",
+      "first_seen": null,
+      "sources": [
+        "mingpao"
       ]
     },
     {
@@ -991,63 +1010,6 @@
       "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26072921",
       "cat": "main",
       "id": "HS26072921",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "合約英文科教師 (2026-2027 年度)",
-      "s": "RAIMONDI COLLEGE PRIMARY SECTION 高主教書院小學部",
-      "sub": "英文",
-      "d": "2026-08-07",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26072031",
-      "cat": "main",
-      "id": "HS26072031",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "合約日薪臨時代課教師 APSM (代產假)",
-      "s": "QUEEN ELIZABETH SCHOOL OLD STUDENTS' ASSOCIATION BRANCH PRIMARY SCHOOL 伊利沙伯中學舊生會小學分校",
-      "sub": "科目未指定",
-      "d": "2026-08-07",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26072151",
-      "cat": "main",
-      "id": "HS26072151",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "合約月薪代課教師 APSM (26/27 學年)",
-      "s": "QUEEN ELIZABETH SCHOOL OLD STUDENTS' ASSOCIATION BRANCH PRIMARY SCHOOL 伊利沙伯中學舊生會小學分校",
-      "sub": "科目未指定",
-      "d": "2026-08-07",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26072152",
-      "cat": "main",
-      "id": "HS26072152",
       "src": "mingpao",
       "area": "",
       "fund": "",
@@ -2804,63 +2766,6 @@
       "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26063451",
       "cat": "main",
       "id": "HS26063451",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "Part-time VA Teacher (Primary)",
-      "s": "HONG KONG BAPTIST UNIVERSITY AFFILIATED SCHOOL WONG KAM FAI SECONDARY AND PRIMARY SCHOOL 香港浸會大學附屬學校王錦輝中小學",
-      "sub": "科目未指定",
-      "d": "2026-08-07",
-      "tags": [],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26062881",
-      "cat": "main",
-      "id": "HS26062881",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "體育合約教師 (全職 / 半職) (2026 至 2027 年度)",
-      "s": "SHENG KUNG HUI CHI FU CHI NAM PRIMARY  SCHOOL 聖公會置富始南小學",
-      "sub": "體育",
-      "d": "2026-08-07",
-      "tags": [
-        "contract"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26062951",
-      "cat": "main",
-      "id": "HS26062951",
-      "src": "mingpao",
-      "area": "",
-      "fund": "",
-      "first_seen": null,
-      "sources": [
-        "mingpao"
-      ]
-    },
-    {
-      "t": "教師 APSM / GM (體育 / 音樂科優先考慮) (常額 / 合約)",
-      "s": "HONG CHI PINEHILL NO 2 SCHOOL 匡智松嶺第二校",
-      "sub": "音樂 / 體育",
-      "d": "2026-08-07",
-      "tags": [
-        "perm",
-        "contract",
-        "sp"
-      ],
-      "u": "https://jump.mingpao.com/job/detail/Jobs/2/HS26062991",
-      "cat": "sp",
-      "id": "HS26062991",
       "src": "mingpao",
       "area": "",
       "fund": "",
@@ -18092,7 +17997,7 @@
       "t": "小學學位教師 PSM (常額) (2026-2027 學年)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "perm"
       ],
@@ -18111,7 +18016,7 @@
       "t": "助理小學學位教師 (常額 / 合約) APSM (中文、英文、數學)",
       "s": "",
       "sub": "英文 / 中文 / 數學",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "perm",
         "contract"
@@ -18131,7 +18036,7 @@
       "t": "常額助理小學學位教師 (體育科)",
       "s": "",
       "sub": "體育",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "perm"
       ],
@@ -18150,7 +18055,7 @@
       "t": "合約 / 常額助理小學學位教師 (體育科主任) (26/27 年度)",
       "s": "",
       "sub": "體育",
-      "d": "2026-08-04",
+      "d": "2026-08-03",
       "tags": [
         "perm",
         "contract"
@@ -18170,7 +18075,7 @@
       "t": "常額/合約 – 助理小學學位教師(APSM) (中文、英文、數學)",
       "s": "",
       "sub": "英文 / 中文 / 數學",
-      "d": "2026-08-01",
+      "d": "2026-07-31",
       "tags": [
         "perm",
         "contract"
@@ -18190,7 +18095,7 @@
       "t": "合約教師 APSM (體育 & 中文)",
       "s": "",
       "sub": "中文 / 體育",
-      "d": "2026-07-31",
+      "d": "2026-07-30",
       "tags": [
         "contract"
       ],
@@ -18209,7 +18114,7 @@
       "t": "浸信會天虹小學",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-29",
+      "d": "2026-07-28",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=8629b03e-f2da-48e8-bb13-e5d105ede55e&from=小學中文招聘",
       "cat": "main",
@@ -18226,7 +18131,7 @@
       "t": "中文科 / 英文科及數學科助理小學學位教師 (合約)",
       "s": "",
       "sub": "英文 / 中文 / 數學",
-      "d": "2026-07-29",
+      "d": "2026-07-28",
       "tags": [
         "contract"
       ],
@@ -18245,7 +18150,7 @@
       "t": "小學學位教師 PSM (英文科)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-28",
+      "d": "2026-07-27",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=6cf9b22c-7e6c-4b53-a28a-8874f3c40873&from=小學英文招聘",
       "cat": "main",
@@ -18262,7 +18167,7 @@
       "t": "合約助理小學學位教師 APSM - 中文科 (普教中) (2026-2027 年度)",
       "s": "",
       "sub": "中文",
-      "d": "2026-07-27",
+      "d": "2026-07-26",
       "tags": [
         "contract"
       ],
@@ -18281,7 +18186,7 @@
       "t": "英文 APSM 助理小學學位教師 (常額 / 合約)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-25",
+      "d": "2026-07-24",
       "tags": [
         "perm",
         "contract"
@@ -18301,7 +18206,7 @@
       "t": "界定合約期常額助理小學學位教師 (全職) (2026-2027 年度)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-24",
+      "d": "2026-07-23",
       "tags": [
         "perm",
         "contract"
@@ -18321,7 +18226,7 @@
       "t": "合約助理小學學位教師 (音樂科)",
       "s": "",
       "sub": "音樂",
-      "d": "2026-07-24",
+      "d": "2026-07-23",
       "tags": [
         "contract"
       ],
@@ -18340,7 +18245,7 @@
       "t": "常額 / 合約助理小學學位教師 APSM (數學科) (2026-2027 年度)",
       "s": "",
       "sub": "數學",
-      "d": "2026-07-23",
+      "d": "2026-07-22",
       "tags": [
         "perm",
         "contract"
@@ -18360,7 +18265,7 @@
       "t": "SEN Teacher (Primary)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-22",
+      "d": "2026-07-21",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=8d1da08b-2b48-41a4-86e5-f5a837f362fc&from=小學各科招聘",
       "cat": "main",
@@ -18377,7 +18282,7 @@
       "t": "非華語老師 (小學部)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-22",
+      "d": "2026-07-21",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=a7524a91-4c72-4a56-ad5a-7c95bca62ad1&from=小學各科招聘",
       "cat": "main",
@@ -18394,7 +18299,7 @@
       "t": "常額英文科教師 APSM (2026-2027)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-22",
+      "d": "2026-07-21",
       "tags": [
         "perm"
       ],
@@ -18413,7 +18318,7 @@
       "t": "合約助理小學學位教師(2026年9月到職)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-21",
+      "d": "2026-07-20",
       "tags": [
         "contract"
       ],
@@ -18432,7 +18337,7 @@
       "t": "Native-speaking English Teacher (Contract Outside EDB NET / APSM) or Non-native English Speaking Teacher (Part-time / Full-time)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-21",
+      "d": "2026-07-20",
       "tags": [
         "net"
       ],
@@ -18451,7 +18356,7 @@
       "t": "小學部校牧及中學部校牧 (Non-Teaching Staff)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-18",
+      "d": "2026-07-17",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=61c85a30-626e-45bf-90ab-fcc30f70e6f0&from=小學各科招聘",
       "cat": "main",
@@ -18468,7 +18373,7 @@
       "t": "助理小學學位教師",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-17",
+      "d": "2026-07-16",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=5e34e038-63e3-4a2e-ac11-ff8b8db62c7e&from=小學各科招聘",
       "cat": "main",
@@ -18485,7 +18390,7 @@
       "t": "合約教師 APSM (任教英文) (於 2026 年 9 月到任)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-17",
+      "d": "2026-07-16",
       "tags": [
         "contract"
       ],
@@ -18504,7 +18409,7 @@
       "t": "0.5 半職助理小學學位教師 APSM",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-15",
+      "d": "2026-07-14",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=524009da-3161-44aa-88ea-af9c107b5a02&from=小學各科招聘",
       "cat": "main",
@@ -18521,7 +18426,7 @@
       "t": "常額助理小學學位教師 APSM (Chin、Eng、Maths)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-15",
+      "d": "2026-07-14",
       "tags": [
         "perm"
       ],
@@ -18540,7 +18445,7 @@
       "t": "2026-2027年度合約助理小學學位教師(英文)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-14",
+      "d": "2026-07-13",
       "tags": [
         "contract"
       ],
@@ -18559,7 +18464,7 @@
       "t": "合約助理小學學位教師 (英文) (2026-2027 年度)",
       "s": "",
       "sub": "英文",
-      "d": "2026-07-14",
+      "d": "2026-07-13",
       "tags": [
         "contract"
       ],
@@ -18578,7 +18483,7 @@
       "t": "PSMCD 小學學位教師 (課程發展主任)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-14",
+      "d": "2026-07-13",
       "tags": [],
       "u": "https://www.hktpost.com/safe_redirect?uuid=144f6b76-1a6e-4dac-9ca5-34bfafa2408d&from=小學常識招聘",
       "cat": "main",
@@ -18595,7 +18500,7 @@
       "t": "常額 / 合約助理小學學位教師 (2026/27 學年)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-11",
+      "d": "2026-07-10",
       "tags": [
         "perm",
         "contract"
@@ -18615,7 +18520,7 @@
       "t": "常額助理小學學位教師 APSM (2026-2027 年度)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-11",
+      "d": "2026-07-10",
       "tags": [
         "perm"
       ],
@@ -18634,7 +18539,7 @@
       "t": "常額 / 合約助理小學學位教師 (中、英)",
       "s": "",
       "sub": "科目未指定",
-      "d": "2026-07-10",
+      "d": "2026-07-09",
       "tags": [
         "perm",
         "contract"
@@ -18654,7 +18559,7 @@
       "t": "體育科常額或合約助理小學學位教師 (26-27 學年)",
       "s": "",
       "sub": "體育",
-      "d": "2026-07-10",
+      "d": "2026-07-09",
       "tags": [
         "perm",
         "contract"
